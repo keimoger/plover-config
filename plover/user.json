@@ -1,5 +1,8 @@
 {
+"PWHR-FRPB": "{PLOVER:SWITCH_SYSTEM:Russian Trillo}",
 "SKR*RB": "{#command(shift(control(4)))}",
 "SKR-FRB": "{#command(shift(5))}",
-"SKR-RB": "{#command(shift(4))}"
+"SKR-RB": "{#command(shift(4))}",
+"TKPWEPBL": "gemini",
+"ТПВК-СРТЛ": "{PLOVER:SWITCH_SYSTEM:Lapwing}"
 }

@@ -20994,3 +20994,1752 @@ Traceback (most recent call last):
 SyntaxError: invalid character "#" in "command([#]shift(4))"
 2026-06-22 22:00:01,122 [MainThread] INFO: Mac keyboard layout changed, updating
 2026-06-22 22:00:03,390 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 22:49:06,528 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-numbers.json
+2026-06-22 22:49:06,530 [Dummy-1] INFO: loaded 12 dictionaries in 0.001s
+2026-06-22 22:57:16,001 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 22:58:21,748 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 23:01:08,099 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-numbers.json
+2026-06-22 23:01:08,103 [Dummy-1] INFO: loaded 12 dictionaries in 0.004s
+2026-06-22 23:04:07,602 [Dummy-1] INFO: stopping `modal_update` extension
+2026-06-22 23:04:07,603 [Dummy-1] INFO: stopping `plover_auto_reconnect_machine` extension
+2026-06-22 23:04:07,603 [Dummy-1] INFO: plover-auto-reconnect-machine: stopping
+2026-06-22 23:04:08,532 [MainThread] INFO: setting language to: en-US
+2026-06-22 23:04:08,865 [Dummy-1] INFO: set_stroke_filename(/Users/kei/Desktop/strokes.log)
+2026-06-22 23:04:08,865 [Dummy-1] INFO: enable_stroke_logging(True)
+2026-06-22 23:04:08,866 [Dummy-1] INFO: enable_translation_logging(True)
+2026-06-22 23:04:08,866 [Dummy-1] INFO: loading system: Lapwing
+2026-06-22 23:04:08,960 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:04:08,966 [Dummy-1] INFO: starting `plover_auto_reconnect_machine` extension
+2026-06-22 23:04:08,966 [Dummy-1] INFO: plover-auto-reconnect-machine: initializing
+2026-06-22 23:04:08,966 [Dummy-1] INFO: plover-auto-reconnect-machine: starting
+2026-06-22 23:04:08,966 [Dummy-1] INFO: starting `modal_update` extension
+2026-06-22 23:04:08,966 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/user.json
+2026-06-22 23:04:08,966 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:04:08,967 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:04:08,967 [Thread-7 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:04:08,967 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:04:08,967 [Thread-8 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:04:08,967 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:04:08,967 [Thread-9 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:04:08,967 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-movement.modal
+2026-06-22 23:04:08,968 [Thread-10 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:04:08,969 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-commands.json
+2026-06-22 23:04:08,969 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-numbers.json
+2026-06-22 23:04:08,969 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-uk-additions.json
+2026-06-22 23:04:08,970 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-proper-nouns.json
+2026-06-22 23:04:08,970 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-base.json
+2026-06-22 23:04:08,970 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/return-from-raw.json
+2026-06-22 23:04:09,154 [Dummy-1] INFO: loaded 12 dictionaries in 0.188s
+2026-06-22 23:04:09,155 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is connected
+2026-06-22 23:06:33,621 [Dummy-1] INFO: stopping `plover_auto_reconnect_machine` extension
+2026-06-22 23:06:33,621 [Dummy-1] INFO: plover-auto-reconnect-machine: stopping
+2026-06-22 23:06:33,621 [Dummy-1] INFO: stopping `modal_update` extension
+2026-06-22 23:07:01,505 [MainThread] INFO: setting language to: en-US
+2026-06-22 23:07:01,749 [Dummy-1] INFO: set_stroke_filename(/Users/kei/Desktop/strokes.log)
+2026-06-22 23:07:01,750 [Dummy-1] INFO: enable_stroke_logging(True)
+2026-06-22 23:07:01,750 [Dummy-1] INFO: enable_translation_logging(True)
+2026-06-22 23:07:01,750 [Dummy-1] INFO: loading system: Lapwing
+2026-06-22 23:07:01,842 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:07:01,851 [Dummy-1] INFO: starting `modal_update` extension
+2026-06-22 23:07:01,851 [Dummy-1] INFO: starting `plover_auto_reconnect_machine` extension
+2026-06-22 23:07:01,851 [Dummy-1] INFO: plover-auto-reconnect-machine: initializing
+2026-06-22 23:07:01,851 [Dummy-1] INFO: plover-auto-reconnect-machine: starting
+2026-06-22 23:07:01,851 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/user.json
+2026-06-22 23:07:01,851 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:07:01,852 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:07:01,852 [Thread-7 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:07:01,852 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:07:01,852 [Thread-8 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:07:01,852 [Thread-9 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:07:01,852 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:07:01,854 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-movement.modal
+2026-06-22 23:07:01,854 [Thread-10 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:07:01,854 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-commands.json
+2026-06-22 23:07:01,854 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-numbers.json
+2026-06-22 23:07:01,854 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-uk-additions.json
+2026-06-22 23:07:01,854 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-proper-nouns.json
+2026-06-22 23:07:01,855 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-base.json
+2026-06-22 23:07:01,855 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/return-from-raw.json
+2026-06-22 23:07:02,027 [Dummy-1] INFO: loaded 12 dictionaries in 0.176s
+2026-06-22 23:07:02,028 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is connected
+2026-06-22 23:07:37,123 [Dummy-1] INFO: stopping `modal_update` extension
+2026-06-22 23:07:37,123 [Dummy-1] INFO: stopping `plover_auto_reconnect_machine` extension
+2026-06-22 23:07:37,123 [Dummy-1] INFO: plover-auto-reconnect-machine: stopping
+2026-06-22 23:07:46,389 [MainThread] INFO: setting language to: en-US
+2026-06-22 23:07:46,633 [Dummy-1] INFO: set_stroke_filename(/Users/kei/Desktop/strokes.log)
+2026-06-22 23:07:46,634 [Dummy-1] INFO: enable_stroke_logging(True)
+2026-06-22 23:07:46,634 [Dummy-1] INFO: enable_translation_logging(True)
+2026-06-22 23:07:46,634 [Dummy-1] INFO: loading system: Lapwing
+2026-06-22 23:07:46,723 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:07:46,728 [Dummy-1] INFO: starting `plover_auto_reconnect_machine` extension
+2026-06-22 23:07:46,728 [Dummy-1] INFO: plover-auto-reconnect-machine: initializing
+2026-06-22 23:07:46,728 [Dummy-1] INFO: plover-auto-reconnect-machine: starting
+2026-06-22 23:07:46,728 [Dummy-1] INFO: starting `modal_update` extension
+2026-06-22 23:07:46,729 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/user.json
+2026-06-22 23:07:46,729 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:07:46,729 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:07:46,729 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:07:46,729 [Thread-7 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:07:46,729 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:07:46,729 [Thread-8 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:07:46,729 [Thread-9 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:07:46,729 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-movement.modal
+2026-06-22 23:07:46,730 [Thread-10 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:07:46,730 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-commands.json
+2026-06-22 23:07:46,730 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-numbers.json
+2026-06-22 23:07:46,730 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-uk-additions.json
+2026-06-22 23:07:46,730 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-proper-nouns.json
+2026-06-22 23:07:46,731 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-base.json
+2026-06-22 23:07:46,739 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/return-from-raw.json
+2026-06-22 23:07:46,899 [Dummy-1] INFO: loaded 12 dictionaries in 0.170s
+2026-06-22 23:07:46,899 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is connected
+2026-06-22 23:07:54,801 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:09:29,129 [Dummy-1] INFO: stopping `plover_auto_reconnect_machine` extension
+2026-06-22 23:09:29,130 [Dummy-1] INFO: plover-auto-reconnect-machine: stopping
+2026-06-22 23:09:29,130 [Dummy-1] INFO: stopping `modal_update` extension
+2026-06-22 23:09:29,993 [MainThread] INFO: setting language to: en-US
+2026-06-22 23:09:30,321 [Dummy-1] INFO: set_stroke_filename(/Users/kei/Desktop/strokes.log)
+2026-06-22 23:09:30,321 [Dummy-1] INFO: enable_stroke_logging(True)
+2026-06-22 23:09:30,321 [Dummy-1] INFO: enable_translation_logging(True)
+2026-06-22 23:09:30,321 [Dummy-1] INFO: loading system: Lapwing
+2026-06-22 23:09:30,396 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:09:30,404 [Dummy-1] INFO: starting `modal_update` extension
+2026-06-22 23:09:30,404 [Dummy-1] INFO: starting `plover_auto_reconnect_machine` extension
+2026-06-22 23:09:30,404 [Dummy-1] INFO: plover-auto-reconnect-machine: initializing
+2026-06-22 23:09:30,404 [Dummy-1] INFO: plover-auto-reconnect-machine: starting
+2026-06-22 23:09:30,404 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/user.json
+2026-06-22 23:09:30,404 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:09:30,404 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:09:30,405 [Thread-7 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:09:30,405 [Thread-8 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:09:30,405 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:09:30,405 [Thread-9 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:09:30,405 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:09:30,406 [Thread-10 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:09:30,406 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-movement.modal
+2026-06-22 23:09:30,407 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-commands.json
+2026-06-22 23:09:30,407 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-numbers.json
+2026-06-22 23:09:30,408 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-uk-additions.json
+2026-06-22 23:09:30,408 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-proper-nouns.json
+2026-06-22 23:09:30,409 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-base.json
+2026-06-22 23:09:30,409 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/return-from-raw.json
+2026-06-22 23:09:30,577 [Dummy-1] INFO: loaded 12 dictionaries in 0.173s
+2026-06-22 23:09:30,578 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is connected
+2026-06-22 23:10:10,157 [Dummy-1] INFO: starting `plover_tapey_tape` extension
+2026-06-22 23:10:10,158 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:10:13,015 [Dummy-1] INFO: stopping `modal_update` extension
+2026-06-22 23:10:13,015 [Dummy-1] INFO: stopping `plover_auto_reconnect_machine` extension
+2026-06-22 23:10:13,015 [Dummy-1] INFO: plover-auto-reconnect-machine: stopping
+2026-06-22 23:10:13,015 [Dummy-1] INFO: stopping `plover_tapey_tape` extension
+2026-06-22 23:10:15,138 [MainThread] INFO: setting language to: en-US
+2026-06-22 23:10:15,391 [Dummy-1] INFO: set_stroke_filename(/Users/kei/Desktop/strokes.log)
+2026-06-22 23:10:15,391 [Dummy-1] INFO: enable_stroke_logging(True)
+2026-06-22 23:10:15,392 [Dummy-1] INFO: enable_translation_logging(True)
+2026-06-22 23:10:15,392 [Dummy-1] INFO: loading system: Lapwing
+2026-06-22 23:10:15,476 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:10:15,482 [Dummy-1] INFO: starting `plover_tapey_tape` extension
+2026-06-22 23:10:15,483 [Dummy-1] INFO: starting `modal_update` extension
+2026-06-22 23:10:15,483 [Dummy-1] INFO: starting `plover_auto_reconnect_machine` extension
+2026-06-22 23:10:15,483 [Dummy-1] INFO: plover-auto-reconnect-machine: initializing
+2026-06-22 23:10:15,483 [Dummy-1] INFO: plover-auto-reconnect-machine: starting
+2026-06-22 23:10:15,484 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/user.json
+2026-06-22 23:10:15,484 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:10:15,484 [Thread-7 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:10:15,484 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:10:15,484 [Thread-8 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:10:15,484 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:10:15,484 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:10:15,484 [Thread-9 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:10:15,485 [Thread-10 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:10:15,485 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-movement.modal
+2026-06-22 23:10:15,486 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-commands.json
+2026-06-22 23:10:15,486 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-numbers.json
+2026-06-22 23:10:15,486 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-uk-additions.json
+2026-06-22 23:10:15,487 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-proper-nouns.json
+2026-06-22 23:10:15,487 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-base.json
+2026-06-22 23:10:15,488 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/return-from-raw.json
+2026-06-22 23:10:15,652 [Dummy-1] INFO: loaded 12 dictionaries in 0.168s
+2026-06-22 23:10:15,652 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is connected
+2026-06-22 23:10:31,471 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:10:33,221 [Dummy-1] INFO: stopping `plover_tapey_tape` extension
+2026-06-22 23:10:33,222 [Dummy-1] INFO: stopping `modal_update` extension
+2026-06-22 23:10:33,222 [Dummy-1] INFO: stopping `plover_auto_reconnect_machine` extension
+2026-06-22 23:10:33,222 [Dummy-1] INFO: plover-auto-reconnect-machine: stopping
+2026-06-22 23:11:17,645 [MainThread] INFO: setting language to: en-US
+2026-06-22 23:11:17,965 [Dummy-1] INFO: set_stroke_filename(/Users/kei/Desktop/strokes.log)
+2026-06-22 23:11:17,965 [Dummy-1] INFO: enable_stroke_logging(True)
+2026-06-22 23:11:17,965 [Dummy-1] INFO: enable_translation_logging(True)
+2026-06-22 23:11:17,965 [Dummy-1] INFO: loading system: Lapwing
+2026-06-22 23:11:18,060 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:11:18,067 [Dummy-1] INFO: starting `modal_update` extension
+2026-06-22 23:11:18,067 [Dummy-1] INFO: starting `plover_auto_reconnect_machine` extension
+2026-06-22 23:11:18,067 [Dummy-1] INFO: plover-auto-reconnect-machine: initializing
+2026-06-22 23:11:18,067 [Dummy-1] INFO: plover-auto-reconnect-machine: starting
+2026-06-22 23:11:18,067 [Dummy-1] INFO: starting `plover_tapey_tape` extension
+2026-06-22 23:11:18,068 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/user.json
+2026-06-22 23:11:18,068 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:11:18,068 [Thread-7 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:11:18,068 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:11:18,068 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:11:18,068 [Thread-8 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:11:18,068 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:11:18,069 [Thread-9 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:11:18,071 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-movement.modal
+2026-06-22 23:11:18,071 [Thread-10 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:11:18,071 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-commands.json
+2026-06-22 23:11:18,071 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-numbers.json
+2026-06-22 23:11:18,072 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-uk-additions.json
+2026-06-22 23:11:18,072 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-proper-nouns.json
+2026-06-22 23:11:18,073 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-base.json
+2026-06-22 23:11:18,074 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/return-from-raw.json
+2026-06-22 23:11:18,254 [Dummy-1] INFO: loaded 12 dictionaries in 0.187s
+2026-06-22 23:11:18,255 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is connected
+2026-06-22 23:11:22,442 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:11:49,870 [Dummy-1] INFO: stopping `modal_update` extension
+2026-06-22 23:11:49,871 [Dummy-1] INFO: stopping `plover_auto_reconnect_machine` extension
+2026-06-22 23:11:49,871 [Dummy-1] INFO: plover-auto-reconnect-machine: stopping
+2026-06-22 23:11:49,871 [Dummy-1] INFO: stopping `plover_tapey_tape` extension
+2026-06-22 23:11:50,596 [MainThread] INFO: setting language to: en-US
+2026-06-22 23:11:50,860 [Dummy-1] INFO: set_stroke_filename(/Users/kei/Desktop/strokes.log)
+2026-06-22 23:11:50,860 [Dummy-1] INFO: enable_stroke_logging(True)
+2026-06-22 23:11:50,861 [Dummy-1] INFO: enable_translation_logging(True)
+2026-06-22 23:11:50,861 [Dummy-1] INFO: loading system: Lapwing
+2026-06-22 23:11:50,948 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:11:50,953 [Dummy-1] INFO: starting `plover_tapey_tape` extension
+2026-06-22 23:11:50,953 [Dummy-1] INFO: starting `modal_update` extension
+2026-06-22 23:11:50,953 [Dummy-1] INFO: starting `plover_auto_reconnect_machine` extension
+2026-06-22 23:11:50,953 [Dummy-1] INFO: plover-auto-reconnect-machine: initializing
+2026-06-22 23:11:50,954 [Dummy-1] INFO: plover-auto-reconnect-machine: starting
+2026-06-22 23:11:50,954 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/user.json
+2026-06-22 23:11:50,954 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:11:50,954 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:11:50,954 [Thread-7 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:11:50,954 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:11:50,954 [Thread-8 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:11:50,954 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:11:50,954 [Thread-9 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:11:50,954 [Thread-10 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:11:50,954 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-movement.modal
+2026-06-22 23:11:50,955 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-commands.json
+2026-06-22 23:11:50,955 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-numbers.json
+2026-06-22 23:11:50,956 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-uk-additions.json
+2026-06-22 23:11:50,957 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-proper-nouns.json
+2026-06-22 23:11:50,957 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-base.json
+2026-06-22 23:11:50,957 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/return-from-raw.json
+2026-06-22 23:11:51,125 [Dummy-1] INFO: loaded 12 dictionaries in 0.171s
+2026-06-22 23:11:51,125 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is connected
+2026-06-22 23:11:56,824 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:13:07,428 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:13:09,607 [Dummy-1] WARNING: Keymap is invalid, behavior undefined:
+
+- action 1- is not bound
+- action 2- is not bound
+- action 3- is not bound
+- action 4- is not bound
+- action 5- is not bound
+- action 6- is not bound
+- action 7- is not bound
+- action 8- is not bound
+- action 9- is not bound
+- action 0- is not bound
+- action Х- is not bound
+- action Ц- is not bound
+- action Ф- is not bound
+- action С- is not bound
+- action Т- is not bound
+- action П- is not bound
+- action В- is not bound
+- action К- is not bound
+- action М- is not bound
+- action Р- is not bound
+- action Н- is not bound
+- action Е- is not bound
+- action Ё is not bound
+- action * is not bound
+- action О is not bound
+- action -А is not bound
+- action -И is not bound
+- action -С is not bound
+- action -Р is not bound
+- action -Т is not bound
+- action -Л is not bound
+- action -В is not bound
+- action -К is not bound
+- action -М is not bound
+- action -Н is not bound
+- action -Й is not bound
+- action -Ъ is not bound
+2026-06-22 23:13:09,609 [Dummy-1] INFO: loading system: Russian Trillo
+2026-06-22 23:13:09,616 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 210, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 266, in flush
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 271, in _output
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/formatting.py", line 491, in format
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/formatting.py", line 615, in render
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 520, in _send_engine_command
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 474, in _consume_engine_command
+  File "/Users/kei/Library/Application Support/plover/plugins/mac/lib/python/site-packages/plover_system_switcher.py", line 19, in switch_system
+    engine.config = {'system_name': system}
+    ^^^^^^^^^^^^^
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 566, in config
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 225, in _same_thread_hook
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 312, in _update
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/system/__init__.py", line 80, in setup
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 44, in setup
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover_stroke.py", line 19, in setup
+ValueError: invalid `implicit_hyphen_keys`: some letters are not unique
+2026-06-22 23:13:09,624 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:13:09,633 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:13:09,642 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:13:09,649 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:13:09,656 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:13:18,618 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:13:24,264 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:24,264 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:24,265 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:24,265 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:24,265 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:24,265 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'T-'
+2026-06-22 23:13:24,265 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:24,266 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:24,266 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'P-'
+2026-06-22 23:13:26,062 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:26,063 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:26,063 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:26,064 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:26,064 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:26,064 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'T-'
+2026-06-22 23:13:26,064 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:26,065 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:26,065 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'P-'
+2026-06-22 23:13:27,435 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:27,436 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:27,436 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:27,437 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:27,437 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:27,437 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'T-'
+2026-06-22 23:13:27,437 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:27,437 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:27,438 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'P-'
+2026-06-22 23:13:36,045 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:36,045 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:36,046 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:36,046 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:36,046 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:36,046 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'T-'
+2026-06-22 23:13:36,046 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:36,047 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:36,047 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'P-'
+2026-06-22 23:13:39,803 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:39,804 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:39,804 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:39,805 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:39,805 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:39,805 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'T-'
+2026-06-22 23:13:39,805 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:39,805 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:39,805 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'P-'
+2026-06-22 23:13:39,805 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'W-'
+2026-06-22 23:13:40,013 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:40,013 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:40,013 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:40,013 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:40,014 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:40,014 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'T-'
+2026-06-22 23:13:40,014 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:40,014 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:40,014 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'P-'
+2026-06-22 23:13:40,014 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'W-'
+2026-06-22 23:13:40,014 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'W-'
+2026-06-22 23:13:40,268 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x100000000000
+2026-06-22 23:13:40,451 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x100000000000
+2026-06-22 23:13:41,079 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:41,248 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:41,412 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:41,563 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:41,725 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:41,924 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:42,083 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:42,228 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:42,367 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:42,500 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:42,843 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:42,844 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:42,844 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:42,844 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:42,844 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:42,845 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'T-'
+2026-06-22 23:13:42,845 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:42,845 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:42,845 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'P-'
+2026-06-22 23:13:42,845 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'W-'
+2026-06-22 23:13:42,845 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'W-'
+2026-06-22 23:13:42,845 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,056 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:43,056 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:43,056 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:43,057 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,057 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,057 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'T-'
+2026-06-22 23:13:43,057 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,057 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,057 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'P-'
+2026-06-22 23:13:43,058 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'W-'
+2026-06-22 23:13:43,058 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'W-'
+2026-06-22 23:13:43,058 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,058 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,220 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:43,221 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:43,221 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:43,221 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,221 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,221 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'T-'
+2026-06-22 23:13:43,222 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,222 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,222 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'P-'
+2026-06-22 23:13:43,222 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'W-'
+2026-06-22 23:13:43,222 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'W-'
+2026-06-22 23:13:43,222 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,222 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,223 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,407 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:43,408 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:43,408 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:43,408 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,408 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,408 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'T-'
+2026-06-22 23:13:43,409 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,409 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,409 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'P-'
+2026-06-22 23:13:43,409 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'W-'
+2026-06-22 23:13:43,409 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'W-'
+2026-06-22 23:13:43,409 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,409 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,410 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,410 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,580 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:43,581 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:43,581 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:43,581 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,581 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,581 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'T-'
+2026-06-22 23:13:43,581 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,582 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,582 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'P-'
+2026-06-22 23:13:43,582 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'W-'
+2026-06-22 23:13:43,582 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'W-'
+2026-06-22 23:13:43,582 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,582 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,582 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,583 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,583 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,766 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:43,766 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:43,766 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-R'
+2026-06-22 23:13:43,767 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,767 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,767 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'T-'
+2026-06-22 23:13:43,767 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,767 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'K-'
+2026-06-22 23:13:43,767 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'P-'
+2026-06-22 23:13:43,767 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'W-'
+2026-06-22 23:13:43,768 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'W-'
+2026-06-22 23:13:43,768 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,768 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,768 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,768 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,768 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:43,768 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: '-D'
+2026-06-22 23:13:44,218 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000100000000020
+2026-06-22 23:13:44,507 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000100000000020
+2026-06-22 23:13:46,158 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:46,312 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:46,541 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:46,698 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:46,825 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:46,950 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:47,055 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:47,405 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:47,549 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:48,037 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:49,104 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:49,208 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:49,564 [Dummy-1] ERROR: engine on_stroked failed
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 235, in run
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/engine.py", line 484, in _on_stroked
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 209, in translate
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 300, in translate_stroke
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 464, in _lookup_with_prefix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 414, in _lookup_with_suffix
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in _lookup_strokes
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/translation.py", line 400, in <genexpr>
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/steno.py", line 98, in rtfcre
+ValueError: invalid keys mask: 0x8000000000000000
+2026-06-22 23:13:56,161 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:14:07,106 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:27:59,760 [Dummy-1] INFO: stopping `plover_tapey_tape` extension
+2026-06-22 23:27:59,761 [Dummy-1] INFO: stopping `modal_update` extension
+2026-06-22 23:27:59,761 [Dummy-1] INFO: stopping `plover_auto_reconnect_machine` extension
+2026-06-22 23:27:59,761 [Dummy-1] INFO: plover-auto-reconnect-machine: stopping
+2026-06-22 23:28:03,477 [MainThread] INFO: setting language to: en-US
+2026-06-22 23:28:03,604 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action 1- is not bound
+- action 2- is not bound
+- action 3- is not bound
+- action 4- is not bound
+- action 5- is not bound
+- action 6- is not bound
+- action 7- is not bound
+- action 8- is not bound
+- action 9- is not bound
+- action 0- is not bound
+- invalid action # mapped to key(s) #1 #2 #3 #4 #5 #6 #7 #8 #9 #A #B #C
+2026-06-22 23:28:03,741 [Dummy-1] INFO: set_stroke_filename(/Users/kei/Desktop/strokes.log)
+2026-06-22 23:28:03,741 [Dummy-1] INFO: enable_stroke_logging(True)
+2026-06-22 23:28:03,741 [Dummy-1] INFO: enable_translation_logging(True)
+2026-06-22 23:28:03,741 [Dummy-1] INFO: loading system: Russian Trillo
+2026-06-22 23:28:03,741 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:28:03,748 [Dummy-1] INFO: starting `modal_update` extension
+2026-06-22 23:28:03,748 [Dummy-1] INFO: starting `plover_auto_reconnect_machine` extension
+2026-06-22 23:28:03,748 [Dummy-1] INFO: plover-auto-reconnect-machine: initializing
+2026-06-22 23:28:03,748 [Dummy-1] INFO: plover-auto-reconnect-machine: starting
+2026-06-22 23:28:03,748 [Dummy-1] INFO: starting `plover_tapey_tape` extension
+2026-06-22 23:28:03,748 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/user.json
+2026-06-22 23:28:03,748 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:28:03,749 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:28:03,749 [Thread-7 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-22 23:28:03,749 [Thread-8 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-22 23:28:03,749 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:28:03,749 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:28:03,749 [Thread-9 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-22 23:28:03,749 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-movement.modal
+2026-06-22 23:28:03,750 [Thread-10 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-22 23:28:03,751 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-commands.json
+2026-06-22 23:28:03,752 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-numbers.json
+2026-06-22 23:28:03,751 [Thread-6 (load)] WARNING: dictionary `user.json` loaded with 5 invalid steno errors
+2026-06-22 23:28:03,753 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-uk-additions.json
+2026-06-22 23:28:03,753 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-proper-nouns.json
+2026-06-22 23:28:03,753 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-base.json
+2026-06-22 23:28:03,754 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/return-from-raw.json
+2026-06-22 23:28:03,753 [Thread-12 (load)] WARNING: dictionary `lapwing-commands.json` loaded with 147 invalid steno errors
+2026-06-22 23:28:03,754 [Thread-13 (load)] WARNING: dictionary `lapwing-numbers.json` loaded with 127 invalid steno errors
+2026-06-22 23:28:03,904 [Thread-14 (load)] WARNING: dictionary `lapwing-uk-additions.json` loaded with 13043 invalid steno errors
+2026-06-22 23:28:03,916 [Thread-15 (load)] WARNING: dictionary `lapwing-proper-nouns.json` loaded with 15788 invalid steno errors
+2026-06-22 23:28:03,916 [Thread-17 (load)] WARNING: dictionary `return-from-raw.json` loaded with 3 invalid steno errors
+2026-06-22 23:28:03,969 [Thread-16 (load)] WARNING: dictionary `lapwing-base.json` loaded with 114884 invalid steno errors
+2026-06-22 23:28:03,978 [Dummy-1] INFO: loaded 12 dictionaries in 0.230s
+2026-06-22 23:28:03,993 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is connected
+2026-06-22 23:28:10,898 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:12,530 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:13,004 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:13,281 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:14,217 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:14,552 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:14,815 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:15,119 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:15,371 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:15,757 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:16,356 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:16,975 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:17,708 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:19,193 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:20,005 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:34,523 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is disconnected, trying to reconnect
+2026-06-22 23:28:34,527 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:28:34,537 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:35,527 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is disconnected, trying to reconnect
+2026-06-22 23:28:35,533 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:28:35,543 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:36,532 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is disconnected, trying to reconnect
+2026-06-22 23:28:36,537 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:28:36,547 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:37,538 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is disconnected, trying to reconnect
+2026-06-22 23:28:37,543 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:28:37,550 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:38,540 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is connected
+2026-06-22 23:28:41,648 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is disconnected, trying to reconnect
+2026-06-22 23:28:41,653 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:28:41,663 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:42,651 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is disconnected, trying to reconnect
+2026-06-22 23:28:42,657 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:28:42,668 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:43,657 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is disconnected, trying to reconnect
+2026-06-22 23:28:43,666 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:28:43,676 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:44,663 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is disconnected, trying to reconnect
+2026-06-22 23:28:44,670 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:28:44,680 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:45,666 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is disconnected, trying to reconnect
+2026-06-22 23:28:45,672 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:28:45,682 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:28:46,673 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is connected
+2026-06-22 23:29:04,129 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is disconnected, trying to reconnect
+2026-06-22 23:29:04,136 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:29:04,152 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:29:05,136 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is disconnected, trying to reconnect
+2026-06-22 23:29:05,145 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:29:05,161 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:29:06,137 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is connected
+2026-06-22 23:29:11,845 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is disconnected, trying to reconnect
+2026-06-22 23:29:11,857 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:29:11,868 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:29:12,851 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is disconnected, trying to reconnect
+2026-06-22 23:29:12,861 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-22 23:29:12,875 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:29:13,853 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is connected
+2026-06-22 23:30:37,901 [Dummy-1] INFO: loading system: Lapwing
+2026-06-22 23:30:37,992 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:30:46,903 [Dummy-1] INFO: loading system: Russian Trillo
+2026-06-22 23:30:46,910 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:30:54,854 [Dummy-1] INFO: loading system: Lapwing
+2026-06-22 23:30:54,937 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:34:16,239 [Dummy-1] INFO: loading system: Russian Trillo
+2026-06-22 23:34:16,247 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:34:19,098 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:34:19,802 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:34:20,324 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:34:20,732 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:34:21,614 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:34:23,063 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:34:23,647 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:34:24,130 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:34:24,929 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:34:50,026 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_user.json
+2026-06-22 23:34:50,026 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_suffixes.json
+2026-06-22 23:34:50,026 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_roots.json
+2026-06-22 23:34:50,027 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_prefixes.json
+2026-06-22 23:34:50,046 [Thread-59 (load)] WARNING: dictionary `plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_suffixes.json` loaded with 15 invalid steno errors
+2026-06-22 23:34:50,047 [Thread-61 (load)] WARNING: dictionary `plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_prefixes.json` loaded with 52 invalid steno errors
+2026-06-22 23:34:50,048 [Dummy-1] INFO: loaded 16 dictionaries in 0.022s
+2026-06-22 23:36:42,840 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 23:36:51,680 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 23:36:57,787 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 23:36:57,790 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 23:37:00,075 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 23:37:11,372 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 23:37:11,375 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 23:37:18,373 [Dummy-1] INFO: loaded 16 dictionaries in 0.000s
+2026-06-22 23:37:55,126 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 23:38:04,501 [Dummy-1] INFO: loaded 16 dictionaries in 0.000s
+2026-06-22 23:38:04,649 [Dummy-1] INFO: loaded 16 dictionaries in 0.000s
+2026-06-22 23:38:04,786 [Dummy-1] INFO: loaded 16 dictionaries in 0.000s
+2026-06-22 23:38:04,937 [Dummy-1] INFO: loaded 16 dictionaries in 0.000s
+2026-06-22 23:38:07,459 [Dummy-1] INFO: loading system: Lapwing
+2026-06-22 23:38:07,546 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:38:07,549 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:38:08,504 [Dummy-1] INFO: loading system: Russian Trillo
+2026-06-22 23:38:08,516 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_user.json
+2026-06-22 23:38:08,516 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_suffixes.json
+2026-06-22 23:38:08,517 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_roots.json
+2026-06-22 23:38:08,517 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_prefixes.json
+2026-06-22 23:38:08,544 [Thread-64 (load)] WARNING: dictionary `plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_suffixes.json` loaded with 15 invalid steno errors
+2026-06-22 23:38:08,544 [Thread-66 (load)] WARNING: dictionary `plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_prefixes.json` loaded with 52 invalid steno errors
+2026-06-22 23:38:08,545 [Dummy-1] INFO: loaded 16 dictionaries in 0.029s
+2026-06-22 23:38:08,546 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'P-'
+2026-06-22 23:38:09,305 [Dummy-1] INFO: loading system: Lapwing
+2026-06-22 23:38:09,392 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:38:09,393 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:38:11,208 [Dummy-1] INFO: loading system: Russian Trillo
+2026-06-22 23:38:11,219 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_user.json
+2026-06-22 23:38:11,220 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_suffixes.json
+2026-06-22 23:38:11,220 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_roots.json
+2026-06-22 23:38:11,220 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_prefixes.json
+2026-06-22 23:38:11,311 [Thread-68 (load)] WARNING: dictionary `plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_suffixes.json` loaded with 15 invalid steno errors
+2026-06-22 23:38:11,311 [Thread-70 (load)] WARNING: dictionary `plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_prefixes.json` loaded with 52 invalid steno errors
+2026-06-22 23:38:11,312 [Dummy-1] INFO: loaded 16 dictionaries in 0.092s
+2026-06-22 23:38:11,314 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'P-'
+2026-06-22 23:38:12,399 [Dummy-1] INFO: loading system: Lapwing
+2026-06-22 23:38:12,492 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:38:12,493 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:38:13,042 [Dummy-1] INFO: loading system: Russian Trillo
+2026-06-22 23:38:13,051 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_user.json
+2026-06-22 23:38:13,051 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_suffixes.json
+2026-06-22 23:38:13,051 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_roots.json
+2026-06-22 23:38:13,052 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_prefixes.json
+2026-06-22 23:38:13,078 [Thread-72 (load)] WARNING: dictionary `plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_suffixes.json` loaded with 15 invalid steno errors
+2026-06-22 23:38:13,078 [Thread-74 (load)] WARNING: dictionary `plugins/mac/lib/python/site-packages/plover_russian_trillo/dictionaries/trillo_prefixes.json` loaded with 52 invalid steno errors
+2026-06-22 23:38:13,079 [Dummy-1] INFO: loaded 16 dictionaries in 0.028s
+2026-06-22 23:38:13,081 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'P-'
+2026-06-22 23:38:13,446 [Dummy-1] INFO: loading system: Lapwing
+2026-06-22 23:38:13,536 [Dummy-1] INFO: loaded 12 dictionaries in 0.000s
+2026-06-22 23:38:13,537 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:38:51,618 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 23:39:55,537 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 23:39:57,148 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:39:57,895 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:39:58,518 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:39:58,769 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:39:59,681 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:00,284 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:02,788 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:03,194 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:03,357 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:03,969 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:04,007 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 23:40:04,011 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 23:40:04,021 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 23:40:07,614 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:07,777 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:08,206 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:08,345 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:08,489 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:08,678 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:08,826 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:08,998 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:09,751 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:09,898 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:10,273 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:10,415 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:13,274 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:14,632 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:14,790 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:14,952 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:15,128 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:15,323 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:15,482 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:15,637 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:15,807 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:15,991 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:16,465 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:16,592 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:17,093 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:17,937 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
