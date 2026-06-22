@@ -2,7 +2,7 @@
 import re
 
 # define your ender here
-uniqueEnders = ["LGTS"]
+uniqueEnders = ["LTDZ"]
 
 
 LONGEST_KEY = 1
