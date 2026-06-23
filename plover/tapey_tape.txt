@@ -267,3 +267,4105 @@
       |# T P H         B      | {#Down}{^}
    ++ |# T P H        P       | {#Up}{^}
  ++++ |       R      R        | {^~|\n^}
+ ++++ |# T P H        P       | {#Up}{^}
+      |# T P H        P       | {#Up}{^}
+   ++ |# T P H        P       | {#Up}{^}
+      |# T P H        P       | {#Up}{^}
+   ++ |# T P H        P       | {#Up}{^}
+      |# T P H        P       | {#Up}{^}
+    + |# T P H        P       | {#Up}{^}
+      |# T P H        P       | {#Up}{^}
+    + |# T P H        P       | {#Up}{^}
+   ++ |# T P H         B      | {#Down}{^}
+  +++ |       R      R        | {^~|\n^}
++++++ |  TKPW    *            | {>}{&g}
++++++ |          *E           | {>}{&e}
++++++ |  T P H         B      | /
+ ++++ |# T P H         B      | {#Down}{^}
++++++ |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
++++++ |         O    R  L T DZ| {^}{#shift(o)}{^}
++++++ |              R  L T DZ| {^}{#shift()}{^}
+   ++ |         O             | /
++++++ |         O*            | {>}{&o}
++++++ |         O       L T DZ| /
++++++ |               P L T DZ| {^}{#super()}{^}
++++++ |    PW       F P       | {#BackSpace}{^}
+    + |    PW       F P       | {#BackSpace}{^}
+    + |    PW       F         | /
+   ++ |    PW       F P       | {#BackSpace}{^}
+   ++ |    PW       F P       | {#BackSpace}{^}
+    + |    PW       F P       | {#BackSpace}{^}
+    + |    PW       F P       | {#BackSpace}{^}
+    + |    PW       F P       | {#BackSpace}{^}
+   ++ |    PW       F P       | {#BackSpace}{^}
++++++ |#                    D | =repeat_last_translation {^ed}
+    + |                     D | {^ed}
++++++ |          *            | *
+   ++ |          *            | *
+ ++++ |        A            D | add
++++++ |                     D | *added
++++++ |  T    R   EU    L     | trill
++++++ | S  P                  | {^^}
+    + |         O*            | {>}{&o}  2>KWRO
++++++ |       R      R        | {^~|\n^}
+   ++ |         O E  R        | other
++++++ |  T P      EU   B G S  | fix
+ ++++ |                      Z| {^s}
++++++ |           E F  B G    | {#Escape}{^}
++++++ | S K WH          LG    | {^} : {^}
++++++ |   K W    *            | {>}{&q}
++++++ |          *            | *
+  +++ |     W    *            | {>}{&w}
+    + |   K W    *            | {>}{&q}
++++++ |       R      R        | {^~|\n^}
++++++ |  TKPW     EU    L     | gill
+ ++++ |          *            | *
+      |  TKPW     EU      T   | git
++++++ |    P       U   B G    | puck
+   ++ |          *            | *
+   ++ |    P       U  PB      | pun
+   ++ |          *            | *
++++++ |    P       U R B      | push
++++++ |         O    R        | {or^}
++++++ |  TKPW     EU  PB      | begin
+  +++ |          *            | *
++++++ |  TKPW     EU  PB      | begin
+  +++ |          *            | *
+   ++ |  TKPW     EU  PB      | begin
+    + |          *            | *
++++++ |         O*            | {>}{&o}
++++++ |       R  *            | {>}{&r}
+   ++ |          *EU          | {>}{&i}
+ ++++ |  TKPW    *            | {>}{&g}
+   ++ |          *EU          | {>}{&i}
+      |  T P H   *            | {>}{&n}
++++++ |          *            | *
+   ++ |          *            | *
++++++ |           E  RPBLG    | /
+ ++++ |          *            | *
+ ++++ |         O    RPBLG    | origin
+ ++++ |          *            | *
++++++ |         O    RPBLG    | origin
++++++ | S  P            L  S  | {>}{&g}{^~|^}origin
++++++ |    P H A  EU  PB      | main
+ ++++ |       R      R        | {^~|\n^}
++++++ | S K WH      F P L     | {^} ( {^}
+   ++ | S K WH       R B G    | {^} ) {^}
++++++ | S K WH A    F P L     | {} ( {^}
+  +++ | S K WH A     R B G    | {} ) {^}
++++++ | S K WH    E F P L     | {^} [ {^}
+  +++ | S K WH     UF P L     | {^} < {^}
++++++ | S K WH     UF P L     | {^} < {^}
++++++ | S K WH    EUF P L     | {^} \{ {^}
++++++ | S K WH    E  R B G    | {^} ] {^}
+  +++ | S K WH     U R B G    | {^} > {^}
+  +++ | S K WH    EU R B G    | {^} \} {^}
++++++ |          *            | *
+    + |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
+    + |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
++++++ | S K WH      F P L     | {^} ( {^}
+    + | S K WH       R B G    | {^} ) {^}
+ ++++ | S K WH    E F P L     | {^} [ {^}
+   ++ | S K WH    E  R B G    | {^} ] {^}
++++++ | S K WH     UF P L     | {^} < {^}
+    + | S K WH     U R B G    | {^} > {^}
++++++ | S K WH    EUF P L     | {^} \{ {^}
+   ++ | S K WH    EU R B G    | {^} \} {^}
+ ++++ |          *            | *
+    + |          *            | *
+    + |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
+ ++++ |          *            | *
++++++ |           E F  B G    | {#Escape}{^}
++++++ |#                      | {#Escape}{^}
++++++ |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
+      |#                      | {#Escape}{^}
++++++ |            U          | you
+   ++ |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
+      |            U          | you
++++++ |      H    EU          | hi
+   ++ |          *            | *
++++++ |      H    EU  P       | hip
+    + |          *            | *
+    + |      H   *EU          | /
+  +++ |          *            | *
+  +++ |      H    EU          | hi
++++++ |  T     A      P     D | tapped
+  +++ |          *            | *
++++++ |   K    A      P     D | capped
+  +++ |          *            | *
+ ++++ |   K    A *    P     D | {:retro_case:cap_first_word}
++++++ |  T P           B G    | {!}
++++++ |          *EU          | {>}{&i}
+ ++++ |          *            | *
+    + |           EU          | I
++++++ |       RAO E   PB   S  | /
+   ++ |          *            | *
++++++ | S K W R    UF     T   | just  2>SWRUFD SWR-PBLGTSDZ SWR-PBLGSZ SWRUF
++++++ |  T P    O  U  PB    D | found  2>STKPWHRUFPBLGD STWRUFPBLGD 3>SWRUFPBLGD
++++++ |            U R        | you're
++++++ |          *            | *
++++++ | S K WH     U R        | {^} · {^}
+ ++++ |          *            | *
+   ++ | S K WH     U R        | {^} · {^}
+   ++ |          *            | *
+   ++ |   K WH     U R        | your
++++++ |   K        U      T   | cut
+   ++ |          *            | *
+    + |   K     O     P   T   | /
+   ++ |          *            | *
+  +++ |   K     O     P L T   | contentment
+  +++ |          *            | *
+  +++ |   K     O     P L     | come
+   ++ |          *            | *
++++++ |   K     O     P L     | come
++++++ |  T P H            T   | in the
+   ++ |          *            | *
+      |          *            | *
++++++ |   KP H    E   PB  T   | comment
++++++ |  T P H                | in
++++++ |                   T   | the  2>TPH-T
++++++ |  T   HR O   FR        | /
+  +++ |          *            | *
++++++ |    P HR O   FR        | plover
++++++ |   K    A      P     D | capped
+ ++++ |          *            | *
+  +++ |   K    A *    P     D | {:retro_case:cap_first_word}  2>#PHROFR
++++++ |   K        U   B      | cub
++++++ |          *            | *
+      | S        * U   B      | sub
++++++ |       R O         T D | rot {^ed}
+   ++ |          *            | *
++++++ |       R   E       T D | reddit
++++++ |          *            | *
++++++ |          *E       T D | /
+  +++ |          *            | *
+    + |          *E       T D | /
+  +++ |          *            | *
++++++ |       R  *E       T D | /
+  +++ |          *            | *
++++++ |       R   E       T D | reddit
++++++ |          *            | *
++++++ | S  P                  | {^^}  2>SUB
++++++ |       R   E       T D | reddit
++++++ |# T P H       R        | {#Left}{^}
++++++ |# T P H       R        | {#Left}{^}
+   ++ |    PW                 | about
++++++ |          *            | *
++++++ |    PW                 | about
++++++ |                   T   | the  2>PW-T
++++++ | ST        E   P L     | stem
+   ++ |          *            | *
+  +++ | ST            P L     | /
+   ++ |          *            | *
+      | S             P L     | system
++++++ |          *            | *
++++++ |  T            P L     | /
++++++ |          *            | *
+    + | ST            P L     | /
+   ++ | S        *            | {>}{&s}
+      | S             P L     | system
+   ++ |          *            | *
+      |          *            | *
+    + |          *            | *
+   ++ | S             P L     | system
++++++ | S  P            L  S  | the{^~|^}system
++++++ |# T P H         B G    | {#Control_L(Right)}{^}
++++++ |   K W          B G    | {,}
++++++ | S KP                  | and
+   ++ |           EU  P L     | {im^}
+ ++++ |          *            | *
++++++ |          *E   P L     | {~|'^}em
+      |          *E           | {>}{&e}
+   ++ |          *            | *
+      |          *            | *
++++++ |    P H                | /
+   ++ |          *            | *
++++++ |           EU          | I  2>SKPEUD SKPEU
+  +++ |        A      P L     | am  2>SWR-B SWRE 3>SKPEUB
++++++ |#S     R   E           | /
+  +++ |          *            | *
+   ++ | S     R   E           | very
++++++ |   K        U R     S  | curse
+  +++ |          *            | *
++++++ |   K     O  U R     S  | chorus
+    + |          *            | *
+    + |   K     O EU R     S  | coyer {^s}
+    + |          *            | *
++++++ |   K    AO  U R     S  | curious
++++++ |    PW                 | about
++++++ |   K WH     U R        | your
++++++ |  T P H       R        | /
++++++ |          *            | *
++++++ |# T P H       R        | {#Left}{^}
+    + |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+    + |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+    + |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+    + |# T P H       R        | {#Left}{^}
++++++ |  T P H  O  U          | now
++++++ | S  P               S  | {^^}
++++++ | S             P       | {^ ^}
++++++ |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+    + |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
++++++ | S  P               S  | {^^}
++++++ | ST         U  P       | setup
+  +++ |          *            | *
++++++ | S             P       | {^ ^}
++++++ | S  P       U  P       | /
++++++ |          *            | *
+   ++ | ST         U  P       | setup
++++++ |     W          B G    | {>}wc
+  +++ |          *            | *
+   ++ |  T P          P L     | {.}
++++++ |       R               | are
++++++ |            U          | you  2>RU
++++++ |        AO  U     G S  | using
++++++ |    P HR O   FR        | plover
++++++ |        A   U R        | or
++++++ | S       O     P L     | some
+  +++ |         O E  R        | other
++++++ |   K     O    R    T   | court
++++++ |          *            | *
++++++ | S       O    R    T   | sort
+ ++++ |          *            | *
+   ++ | S       O   F     T   | soft
++++++ |     W  A     R        | war
+   ++ |          *            | *
+ ++++ |     W  A  EU R        | ware
+  +++ |          *            | *
+   ++ |     W  A *EU R        | *software  >SWA*EUR
++++++ |  T P         R        | for
++++++ |    P  R   EU    L     | pril
+ ++++ |          *            | *
+  +++ |  T        EU    L     | till
+   ++ |          *            | *
+    + |  T    R   EU    L     | trill
++++++ |  T     A *    P     D | tap {^ed}
+  +++ |          *            | *
++++++ |   K    A *    P     D | {:retro_case:cap_first_word}
++++++ |         O*            | {>}{&o}
+  +++ |          *            | *
++++++ | S  P                  | {^^}
+      |         O*            | {>}{&o}  2>KWRO
++++++ |   K W         P L     | {?}
+  +++ |            U          | you
++++++ |          *            | *
++++++ |           EU          | I
+    + |        A      P L     | am  2>SWR-B SWRE
+  +++ |        A  EU          | a  3>SWR-BT
++++++ |  T P H A  E F   L     | /
+   ++ |          *            | *
+    + |  T P H A  E F     T   | nasty
+   ++ |          *            | *
++++++ |  T P H A  EUF     T   | native
++++++ | S  P   AO E  R B G    | speaker
++++++ |          *            | *
+  +++ | S  P                  | {^^}
++++++ | S  P   AO E  R B G    | speaker
++++++ |   K W          B G    | {,}
++++++ |           EU          | I
++++++ |      HR             D | willed
+  +++ |          *            | *
++++++ |        A        L   D | ald
+   ++ |          *            | *
+  +++ |        A     R  L   D | article {^ed}
+   ++ |          *            | *
+    + |        A     R        | ar
+ ++++ |          *            | *
+      |        A        L     | al
+   ++ |          *            | *
++++++ |    P H   *            | {>}{&m}
+ ++++ |          *            | *
++++++ |        A      P L     | am  2>SWR-B SWRE
++++++ |          *            | *
++++++ |      HR      R        | all ready
++++++ |          *            | *
+ ++++ |      HR  *   R        | already
++++++ |        AO  U       S  | use
++++++ | ST     AO E   PB      | sixteen
+   ++ |          *            | *
++++++ | ST      O E   PB      | stone
+   ++ |          *            | *
+    + | ST      O EU  PB      | steno
++++++ |          *            | *
++++++ | S  P                  | {^^}
++++++ | ST      O EU  PB      | steno
++++++ |   K W          B G    | {,}
++++++ | S KP                  | and
++++++ |           EU          | I  2>SKPEUD SKPEU
+ ++++ | S     R   E           | very
++++++ |    P H     UF P       | much
++++++ |          *            | *
+    + |          *            | *
++++++ |   K    A   U  PB  T   | content
+   ++ |          *            | *
+ ++++ |     W  A   U  PB      | /
+ ++++ |          *            | *
+    + |     W  A   U  PB  TS  | wants
+   ++ |          *            | *
+      |     W                 | with
+    + |     W  A   U  PB  T   | want
+   ++ |          *            | *
+      |          *            | *
+    + |     W  A   U  PB  T   | want  2>SWR-P 3>SKPEUP
++++++ |  T      O             | to  2>TWAOPBT STWR-PT TWAOUPBT 3>SWR-PT 4>SKPEUPT
++++++ |        AO  U       S  | use  2>STWRUDZ STKPWHRUDZ STWRUZ STKPWHRUZ
++++++ | ST     A  EU  PB      | stain
+ ++++ |          *            | *
+ ++++ | ST     AO  U  PB      | /
+  +++ |          *            | *
+  +++ | ST     A  EU  PB      | stain
+    + |          *            | *
+    + | ST     A   U  PB      | /
+ ++++ |          *            | *
++++++ | ST      O E   PB      | stone
+ ++++ |          *            | *
+  +++ | ST      O EU  PB      | steno
++++++ |  T P         R        | for
++++++ |        A           S  | as
+   ++ |     W     E     L     | well  2>SW*EL
++++++ |          *            | *
+      |          *            | *
++++++ |        A           S  | as
+   ++ |     W     E     L     | well  2>SW*EL
++++++ |  T            P L     | /
++++++ |          *            | *
+      |  T P          P L     | {.}
++++++ |    P                  | people
+  +++ |          *            | *
+    + |  T P                  | if
++++++ |          *            | *
++++++ |           EU          | I
++++++ |     W      U       S  | with you {^s}
+ ++++ |          *            | *
+   ++ |     W      U        D | would  2>SWR-RBGSZ SWRAOD
++++++ |    P  RAO E  R B      | appreciate
++++++ |  T P                  | if
++++++ |            U        D | you'd
++++++ |                B      | be
++++++ |      HR          G    | willing
++++++ |  T      O             | to
++++++ | S    H A  EU R        | share
++++++ |   K     O     P L     | come
++++++ |          *            | *
+      | S       O     P L     | some
++++++ |  T P H  O E           | know
++++++ |      HR O        G  D | logged
+  +++ |          *            | *
++++++ |      HR   E      G  D | leg {^ed}
+  +++ |          *            | *
++++++ |      HR  *E      G  D | /
+   ++ |          *            | *
++++++ |  T P H  O     PBLG    | knowledge
++++++ |    PW                 | about
++++++ |        A   U    L     | all
++++++ |  T   H                | this
++++++ |    P          P L     | {>}pm
+ ++++ |          *            | *
+      |  T P          P L     | {.}
++++++ |  T   H A      PB      | than
+   ++ |          *            | *
+   ++ |  T   H A      PB G    | thang
+   ++ |          *            | *
++++++ |  T   H A      PB   S  | than {^s}
+  +++ |          *            | *
++++++ |               PB G S  | {^ness} {^ing}
+   ++ |          *            | *
+   ++ |  T   H A      PB G S  | thang {^s}
+  +++ |          *            | *
++++++ |  T   H A *    PB G   Z| thanks
++++++ |  T P H                | in
++++++ | STK   RA      PB   S  | /
+  +++ |          *            | *
++++++ | S  P   A      PB   S  | span {^s}
++++++ |          *            | *
++++++ | S     RA      PB   S  | advance
++++++ |   K W         P L     | {?}
++++++ |          *            | *
+    + |  T P           B G    | {!}
++++++ |      H                | had
+      |      H                | had  2>STKPWHR-FTD STWR-FTD
+      |      H                | had  2>STKPWHR-FTD STWR-FTD
+ ++++ |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
++++++ | S K                   | ask
++++++ |  T P                  | if
++++++ |    P H A  EU   B G    | make
+ ++++ |        AO  U       S  | use
++++++ |    P H AO E  R        | mere
+  +++ |          *            | *
++++++ |      H  O E  R        | /
+  +++ |          *            | *
+    + |      H AO E  R        | here
++++++ |      H A      PB    D | hand
++++++ |  T        E     L     | tell
++++++ |    P H A * U R    T   | /
+  +++ |          *            | *
++++++ |  T P   A * U R    T   | father
++++++ |     W     E   PB  T   | went
+ ++++ |    P H AO E           | me
++++++ |   K    A  EU  P L     | came
++++++ |    PW  A  E   PB      | bean
+ ++++ |          *            | *
++++++ |    PW         PB      | been
++++++ |       RAO EU      T   | right
+  +++ |  T P                  | if
+ ++++ |          *            | *
+  +++ |  T P H                | in
+ ++++ |      H AO E           | he
++++++ |         O E   PBL     | only
++++++ |         O E FR        | {over^}
++++++ |  T     A  EU   B G    | *overtake
++++++ | S      AO EU  P L     | /
+   ++ |          *            | *
+  +++ | S      A  EU  P L     | same
++++++ |     W     E     L     | well
++++++ |  TKPW     E       T   | get
++++++ |    PW              S  | about {^s}
+  +++ |          *            | *
+   ++ |      HR            S  | also
++++++ |    P H AO E   PB      | mean
++++++ |   K  H A  EU  PB G    | change
++++++ |    PW     EU    L   D | build
+  +++ | S      AO E           | see
++++++ |    P H A      PBL     | animal
+   ++ |      H                | had
++++++ | S                     | is
++++++ |          *E  R    T   | earth
++++++ |  T   H AO E        S  | these
+   ++ |  T P                  | if
++++++ |    P H A  EU   B G    | make
++++++ |        AO  U       S  | use
++++++ |      H AO E  R        | here
++++++ |      H A      PB    D | hand
++++++ |  T        E     L     | tell
++++++ |    P H A * U R    T   | /
+  +++ |          *            | *
++++++ |  T P   A * U R    T   | father
++++++ |     W     E   PB  T   | went
+  +++ |    P H AO E           | me
++++++ |   K    A  EU  P L     | came
++++++ |    PW         PB      | been
++++++ |       RAO EU      T   | right
+   ++ |  T P H                | in
+   ++ |      H AO E           | he
++++++ |         O E   PBL     | only
++++++ |         O E FR        | {over^}
++++++ |  T     AO EU   B G    | tyke
+  +++ |          *            | *
+ ++++ |  T     A  EU   B G    | *overtake
++++++ | S      A  EU  P L     | same
++++++ |    PW     E     L     | bell
+  +++ |          *            | *
+   ++ |     W     E   P L     | welp
+  +++ |          *            | *
+   ++ |    PW     E     L     | bell
+   ++ |          *            | *
+      |     W     E     L     | well
++++++ |  TKPW     E       T   | get
++++++ |    PW              S  | about {^s}
+  +++ |          *            | *
+  +++ |      HR            S  | also
++++++ |    P H AO E   PB      | mean
++++++ |   K  H A  EU  PB G    | change
++++++ |      HR   EU    L   D | little {^ed}
+  +++ |          *            | *
+   ++ |    PW     EU    L   D | build
+ ++++ | S      AO E           | see
++++++ |    P H A  E   PBL     | /
+  +++ |          *            | *
+ ++++ |    P H A  E   PBL     | /
+   ++ |          *            | *
++++++ |    P H A  E   PBL     | /
+   ++ |          *            | *
+    + |    P H A      PBL     | animal
++++++ |      H                | had
+  +++ | S                     | is
+  +++ |          *E  R    T   | earth
++++++ |  T   H AO E        S  | these
++++++ | S                     | is
+   ++ |      HR O E           | low
++++++ |     WH A              | what
+   ++ |           EU          | I  2>SWHAEU SWHAEUD WHAEU
+   ++ |             F         | of
+   ++ |      HR               | will
++++++ |  T        E  RPB      | tern
+  +++ |          *            | *
++++++ |  T         U RPB      | turn
++++++ |  T P H  O             | no
++++++ |           E    B GT   | /
+  +++ |          *            | *
+      |           E    B GT   | /
+   ++ |          *            | *
+  +++ |        A       B GT   | act
++++++ |    P H     UF P       | much
++++++ |    PW  AO             | boo
+ ++++ |          *            | *
++++++ |  T P    O             | /
+   ++ |          *            | *
+ ++++ |  T     AO             | too
++++++ | S KP                  | and
++++++ |   K    AO EU  PB    D | kind
++++++ |         O  U R        | our
++++++ |      H AO EU          | high
+   ++ | S       O             | so
++++++ | S  P H A   U    L     | small
++++++ | S      AO E           | see
++++++ |   K     O     P L     | come
+  +++ |   K                   | can
++++++ |    P H    E   PB      | men
++++++ | S     R   E           | very
++++++ |    P   A     R    T   | part
+   ++ |  T P                  | if
+  +++ |  T P H  O  U          | now
++++++ |    P H  O E  R        | mother
++++++ |  T   H A  EU R        | their
++++++ | S     R               | have
++++++ |   K    A   U       S  | cause
++++++ |     W   O    R      D | word
++++++ | S                     | is
++++++ |      HR O E           | low
+  +++ |     W   O             | /
+   ++ |          *            | *
+    + |     WH A              | what
+  +++ |           EU          | I  2>SWHAEU SWHAEUD WHAEU
+    + |             F         | of
+    + |      HR               | will
++++++ |  T      O    RPB      | torn
+ ++++ |          *            | *
++++++ |  T         U RPB      | turn
+  +++ |  T P H  O             | no
++++++ |        A  E   PB GT   | {ante^} {^ing}
+   ++ |          *            | *
+    + |        A       B GT   | act
++++++ |    P H     UF P       | much
+ ++++ |  T     AO             | too
+  +++ | S KP                  | and
++++++ |   K    AO EU  PB    D | kind
+ ++++ |        A   U R        | or
+  +++ |          *            | *
+ ++++ |         O  U R        | our
++++++ |      H AO EU          | high
+ ++++ | S       O             | so
++++++ | S  P H A   U    L     | small
+  +++ | S      AO E           | see
++++++ |   K     O     P L     | come
+  +++ |   K                   | can
++++++ |    P H    E   PB      | men
+ ++++ | S     R   E           | very
++++++ |    P   A     R    T   | part
+   ++ |  T P                  | if
+ ++++ |  T P H  O  U          | now
++++++ |    P H  O E  R        | mother
++++++ |  T   H A   U R        | /
+  +++ |          *            | *
++++++ |  T   H A  EU R        | their
+  +++ | S K   R               | /
+  +++ |          *            | *
+   ++ | S     R               | have
++++++ |   K    A   U       S  | cause
++++++ |     W   O    R      D | word
++++++ |    P H AO E           | me
++++++ |  T P H     U  P L     | numb
+   ++ |    PW     E  R        | *number  >TPHURPL
++++++ |  TK     O             | do
++++++ |      H  O          S  | who {^s}
+  +++ |          *            | *
++++++ |      H  O  U       S Z| houses
+  +++ |          *            | *
+ ++++ |      H  O  U       S  | house
++++++ |      HR O E           | low
++++++ |     W   O     PB      | won
+  +++ |          *            | *
+   ++ |     W      U  PB      | one
++++++ |      HR O     PB G    | long
++++++ |            U          | you
+  +++ |          *            | *
+      |  T         U RPB      | turn
++++++ | S         EUF P       | /
+  +++ |          *            | *
+      | S          UF P       | such
++++++ |         O E   PBL     | only
++++++ |  T        E     L     | tell
++++++ |     W R               | were
+ ++++ |          *            | *
++++++ |     W        R        | where
++++++ |   K                S  | can {^s}
+  +++ |          *            | *
++++++ |  TK     O          S  | does
++++++ |  T  W   O             | two
++++++ |     WH                | when
++++++ |  T   H                | this
+ ++++ |        A          T   | at
++++++ |     W  AO E           | we
++++++ |      HR   EU    L     | little
++++++ |  TKPW     EUF         | give
++++++ |  TK     O  U  PB      | down
++++++ |    PW      U      T   | but
+ ++++ |        A   UF         | off
+  +++ | S K                   | ask
++++++ | S       O           D | sod
+  +++ |          *            | *
+   ++ | S       O           D | sod
+   ++ |          *            | *
+   ++ | S         E         D | said
+  +++ |      H  O E           | hoe
+   ++ |          *            | *
+    + |      H    E           | /
++++++ |  T     AO             | too
++++++ | S       O     P L     | some
++++++ |  TKPW  AO           D | good
++++++ |  T   H    E           | they
+   ++ |          *            | *
+   ++ |  T   H    E   PB      | then
++++++ |    P H AO E           | me
++++++ |  T P H     U  P L     | numb
++++++ |    PW     E  R        | *number  >TPHURPL
++++++ |  TK     O             | do
++++++ |      H  O  U       S  | house
+  +++ |      HR O E           | low
++++++ |     W      U  PB      | one
++++++ |      HR O     PB G    | long
++++++ |  T         U RPB      | turn
++++++ | S          UF P       | such
++++++ |         O E   PB G    | owning
+  +++ |          *            | *
++++++ |         O E   PB G    | owning
+  +++ |          *            | *
++++++ |         O     PBL     | /
+   ++ |          *            | *
+      |         O E   PBL     | only
++++++ |  T        E     L     | tell
++++++ |     WH                | when
+   ++ |          *            | *
+ ++++ |     W        R        | where
++++++ |  TK     O          S  | does
+ ++++ |  T  W   O             | two
++++++ |     WH                | when
++++++ |  T   H                | this
+ ++++ |        A          T   | at
+ ++++ |    P   AO E           | pee
+   ++ |          *            | *
+      |     W  AO E           | we
++++++ |      HR O EU    L     | loyal
+  +++ |          *            | *
+ ++++ |      HR   EU    L     | little
++++++ |  TKPW     EUF         | give
++++++ |  TK     O  U  P L     | /
+    + |          *            | *
+    + |  TK     O  U  PB      | down
++++++ |    PW      U      T   | but
++++++ |        A   UF         | off
+  +++ | S K                   | ask
++++++ | S         E         D | said
+      |           E           | {e^}
+  +++ |          *            | *
++++++ |      H AO E           | he
++++++ |  T      O             | to
+   ++ |          *            | *
+    + |  T     AO             | too
++++++ | S       O     P L     | some
++++++ |  TKPW  AO           D | good
++++++ |  T   H    E   PB      | then
++++++ |      H    EU  P L     | him
+  +++ | S KP                  | and
++++++ |      HR O     PB G    | long
++++++ |    P HRA  EU          | play
+  +++ |             F         | of
+    + | S                     | is
+   ++ | S      AO             | /
+    + |          *            | *
+    + |          *            | *
+    + | S      AO             | /
++++++ |          *            | *
+ ++++ | S      AO E           | see
+  +++ |  T     AO EU          | tie
+   ++ |          *            | *
+    + |  T     AO EU  P L     | time
++++++ |  TKPW     E   PBLG    | gemini {^ing}
+   ++ |          *            | *
+    + |  TKPW     E   PB      | again
++++++ | S      A  EU  P L     | same
++++++ |   K        U        D | could
+  +++ |          *            | *
+  +++ |     W      U        D | would
++++++ |    PWH                | /
+   ++ |          *            | *
+    + |     WH                | when
++++++ | S      A  EU          | say
++++++ |      H  O  U       S  | house
++++++ |                B      | be
++++++ | S K WH AO E  R        | {} • {}
+  +++ |          *            | *
++++++ |   K WH AO E  R        | year
++++++ |  T   H A  EU R        | their
++++++ |     W     E   PB  T   | went
++++++ |  T  W   O             | two
+  +++ |      HR O E           | low
++++++ |      HRAO EU  PB      | line
++++++ |     W   O    R      D | word
++++++ |  T P         R        | for
++++++ |        A          T   | at
+  +++ |          *            | *
+      |        A            D | add
++++++ | S  P H A   U    L     | small
++++++ |           E   PB    D | end
++++++ | S  P      E     L     | spell
++++++ |     W   O    R B G    | work
++++++ |    PW     EU          | by
++++++ |    P H     UF P       | much
++++++ |  TKPW  AO           D | good
++++++ |      H    EU  P L     | him
+ ++++ | S KP                  | and
++++++ |      HR O     PB G    | long
++++++ |    P HRA  EU          | play
+  +++ |             F         | of
++++++ | S      AO E           | see
++++++ |  T     AO EU  P L     | time
++++++ |  TKPW     E   PB      | again
++++++ | S      A  EU  P L     | same
++++++ |     W      U        D | would
+  +++ |     WH                | when
++++++ | S      A  EU          | say
++++++ |      H  O  U       S  | house
+  +++ |                B      | be
++++++ |   K WH  O E  R        | /
+  +++ |          *            | *
++++++ |   K WH AO E  R        | year
++++++ |  T   H A  EU R        | their
++++++ |     W     E   PB  T   | went
++++++ |  T  W   O             | two
++++++ |      HR O E           | low
++++++ |      HRAO EU  PB      | line
++++++ |     W   O    R      D | word
++++++ |  T P         R        | for
+ ++++ |        A          T   | at
+   ++ |          *            | *
+      |        A          T   | at
+   ++ |          *            | *
+    + |        A            D | add
++++++ | S  P H A   U    L     | small
++++++ |           E   PB    D | end
+  +++ |                     D | {^ed}
+  +++ |          *            | *
+  +++ | S  P      E     L     | spell
++++++ |     W     E  R B G    | /
+   ++ |          *            | *
++++++ |     W   O    R B G    | work
++++++ |    PW     EU          | by
+ ++++ |    P H     UF   L T   | /
+   ++ |          *            | *
+      |    P H     UF P       | much
++++++ |  TKPW  AO           D | good
++++++ |  T   H    EU          | think
++++++ |  TK     O  U  PB      | down
+  +++ |        A    F         | after
++++++ |  T     A  EU   B G    | take
++++++ |  T        E     L     | tell
++++++ |   K    A   U    L     | call
++++++ |   K WH     U R        | your
++++++ |  T P    O    RP L     | form
++++++ |  T P H     U  P L     | numb
+  +++ |    PW     E  R        | *number  >TPHURPL
++++++ |        A  EUFR        | /
+  +++ |          *            | *
+    + |        A  EU R        | air
++++++ |  T P H A  EU  P L     | name
++++++ |    P H  O E F         | movie
+   ++ |          *            | *
++++++ |    P H AO  UF         | move
++++++ |  T P H  O  U          | now
++++++ |    P H  O E  R        | mother
++++++ | S  P H A   U    L     | small
++++++ |      HR O     PB G    | long
++++++ |      HRA     RPBLG    | large
++++++ |      H A   U  PB    D | /
+ ++++ |      H                | had
+    + |          *            | *
+      |          *            | *
+ ++++ |      H A   U  PB    D | /
+ ++++ |          *            | *
+ ++++ |      H A      PB    D | hand
++++++ |#S      A  EU          | /
+   ++ |          *            | *
+    + | S      A  EU          | say
++++++ |  TKPW     EUF         | give
++++++ |        A  EU          | a
++++++ |    PW  A  EU          | bay
+  +++ |          *            | *
+    + |    PW     EU          | by
+ ++++ |          *            | *
+    + |    PW   O EU          | boy
++++++ |     W RAO EU      T   | write
++++++ |    PW         PB      | been
+  +++ |          *            | *
+   ++ |    PW       FR        | before
++++++ |    P H  O    R        | more
++++++ |       RA  E         D | read
++++++ | S       O  U  PB    D | sound
++++++ |    P H A  EU   B G    | make
+  +++ |        A   U    L     | all
++++++ |  T P H AO E         D | need
+  +++ |  T   H    EU          | think
++++++ |  TK     O  U  PB      | down
+  +++ |        A    F         | after
++++++ |  T     A  EU   B G    | take
+ ++++ |  T      O       L     | toll
+ ++++ |          *            | *
++++++ |  T        E     L     | tell
++++++ |   K    A   U    L     | call
++++++ |   K WH     U R        | your
++++++ |  T P    O    RP L     | form
++++++ |  T P H     U  P L     | numb
+   ++ |    PW     E  R        | *number  >TPHURPL
++++++ |        A  EU R        | air
++++++ |  T P H A  EU  P L     | name
++++++ |    P H  O E F         | movie
+   ++ |          *            | *
++++++ |    P H AO  UF         | move
++++++ |  T P H  O  U          | now
++++++ |    P H  O E  R        | mother
++++++ | S  P H A   U    L     | small
++++++ |      HR O     PB G    | long
++++++ |      HRA     RPBL     | /
+   ++ |        A *            | {>}{&a}
+    + |      HRA     RPBLG    | large
+   ++ |          *            | *
+      |          *            | *
+      |          *            | *
+    + |      HRA     RPBLG    | large
++++++ |      H A  E   P     D | happy {^ed}
+  +++ |          *            | *
+ ++++ |      H A      PB    D | hand
++++++ | S      A  EU          | say
++++++ |  TKPW     EUF         | give
+  +++ |        A  EU          | a
++++++ |    PW   O EU          | boy
++++++ |     W RAO EU      T   | write
++++++ |    PW       FR        | before
++++++ |    P H  O    R        | more
++++++ |       RA  E         D | read
++++++ | S       O  U  PB    D | sound
++++++ |    P H  O E    B G    | /
+   ++ |          *            | *
++++++ |    P H A  EU   B G    | make
++++++ |        A   U    L     | all
++++++ |  T P H AO E         D | need
++++++ |    P H     UF     T   | must
++++++ |  T   H AO E        S  | these
++++++ |      H    EU       S  | his
++++++ |      H    E   P       | help
++++++ |  TK     O  U  PB      | down
++++++ |  T P         R        | for
++++++ | S    H AO E           | she  2>STPR*E STPR*ED
++++++ |  TKPW     EUF         | give
+ ++++ |   K WH     U R        | your
+   ++ | S                     | is
++++++ |    PW       FR        | before
++++++ |      HRAO      B G    | look
+ ++++ |  T P H        PB      | under
+  +++ |    PW                 | about
+  +++ | S K                   | ask
++++++ |    P H  O    R        | more
+ ++++ |      H  O  U          | how
++++++ |      H    E  R        | her
++++++ |    P H A      PBL     | animal
++++++ |    P H     UF P       | much
++++++ |      HRAO EU  PB      | line
++++++ | S       O     P L     | some
++++++ |        A   U    L     | all
++++++ |  TKPW     E   PB      | again
++++++ |  T P    O    RP L     | form
++++++ |     WH                | when
++++++ | ST        E   PB   S  | sentence
++++++ |     W        R        | where
+   ++ |          *            | *
+    + |     W R               | were
++++++ |    PW      U      T   | but
++++++ |     W  A  EU          | way
++++++ |    P H     UF     T   | must
++++++ |  T   H AO E        S  | these
+ ++++ |      H    EU       S  | his
++++++ |      H  O     P       | hop
+   ++ |          *            | *
+    + |      H    E   P       | help
++++++ |  TK     O  U  PB      | down
+ ++++ |  T P        FR        | /
+  +++ |          *            | *
+   ++ |  T P         R        | for
++++++ | S    H AO E           | she  2>STPR*E STPR*ED
++++++ |  TKPW     EUF         | give
+ ++++ |   K WH     U R        | your
+   ++ | S                     | is
++++++ |    PW       FR        | before
++++++ |      HRAO      B G    | look
++++++ |  T P H        PB      | under
+  +++ |    PW                 | about
+   ++ | S K                   | ask
++++++ |    P H  O    R        | more
+  +++ |      H  O  U          | how
++++++ |      H    E  R        | her
++++++ |    P H A      PBL     | animal
+ ++++ |    P H     UF P       | much
++++++ |      HRAO EU  PB      | line
+ ++++ | S       O     P L     | some
+ ++++ |        A   U    L     | all
++++++ |  TKPW     E   PB      | again
++++++ |  T P    O    RP L     | form
+ ++++ |     WH                | when
++++++ | ST        E   PB   S  | sentence
+ ++++ |     W R               | were
++++++ |    PW      U      T   | but
++++++ |     W  A  EU          | way
++++++ | S K   R      R B      | {#command(shift(4))}
++++++ | S     R       P L T DZ| {^}{#super(v)}{^}
++++++ |       R      R        | {^~|\n^}
++++++ |    P H   *            | {>}{&m}
+    + |     W    *            | {>}{&w}
++++++ |          *EU          | {>}{&i}
+    + |    P H   *            | {>}{&m}
+   ++ |          *            | *
+      |          *            | *
++++++ |          *EU          | {>}{&i}
+    + |          *            | *
++++++ | S             P       | {^ ^}
++++++ |          *EU          | {>}{&i}
+    + |    P H   *            | {>}{&m}
++++++ |      HRAO EU   B G    | like
+    + |   K  H                | which
+   ++ |          *            | *
+    + |   K  H A              | cha
+   ++ |          *            | *
+  +++ |  T   H A              | that
++++++ |          *            | *
+   ++ |          *            | *
++++++ |  T   H                | this
++++++ |       R      R        | {^~|\n^}
++++++ |          *EU          | {>}{&i}
++++++ | S             P       | {^ ^}
++++++ |    P H   *            | {>}{&m}
+  +++ | S             P       | {^ ^}
++++++ |    P     *            | {>}{&p}
++++++ | S             P       | {^ ^}
+  +++ |       R  *            | {>}{&r}
++++++ | S             P       | {^ ^}
+  +++ |         O*            | {>}{&o}
++++++ | S             P       | {^ ^}
++++++ | S     R  *            | {>}{&v}
+  +++ | S             P       | {^ ^}
++++++ |          *EU          | {>}{&i}
++++++ | S             P       | {^ ^}
++++++ |  T P H   *            | {>}{&n}
+  +++ | S             P       | {^ ^}
+ ++++ |  TKPW    *            | {>}{&g}
++++++ |       R      R        | {^~|\n^}
++++++ |      HR O        G    | log
++++++ |       R      R        | {^~|\n^}
++++++ |    PW       FR        | before
+  +++ |    PW                 | about
++++++ |       R O  U  PB    D | round
++++++ |  TKPW     E       T   | get
++++++ |            U          | you
++++++ |         O E     L   D | old
++++++ |    PW     EU     G    | big
++++++ |      HRAO EU      T   | light
++++++ |    P H    E   PB      | men
+  +++ |  T   H    EU          | think
++++++ |  TK     O  U  PB      | down
+   ++ |  T P H  O             | no
+  +++ | S     R   E           | very
+ ++++ |  T P                  | if
++++++ |      H  O  U       S  | house
++++++ |      HRA     RPBLG    | large
++++++ |  T   H    EU          | think
+   ++ |          *            | *
+    + |  T    R   EU          | try
++++++ |        AO E F P       | each
++++++ |      HR   EUF         | live
++++++ |    P H  O    R        | more
++++++ |  T P H     U  P L     | numb
+   ++ |    PW     E  R        | *number  >TPHURPL
++++++ |        A    F         | after
++++++ |   K    A   U    L     | call
+   ++ |             F         | of
++++++ |      HRA      PB    D | land
++++++ |     W R               | were
+  +++ | S KP                  | and
++++++ |  T   H AO E        S  | these
++++++ |     W      U      T   | /
+   ++ |          *            | *
+  +++ |     W      U        D | would
++++++ |    P HRA  EU       S  | place
+  +++ |    PW       FR        | before
+   ++ |    PW                 | about
++++++ |       R O  U  PB    D | round
++++++ |  TKPW     E       T   | get
+   ++ |            U          | you
++++++ |         O E     L   D | old
++++++ |    PW     EU     G    | big
++++++ |      HRAO EU      T   | light
++++++ |    P H    E   PB      | men
++++++ |  T   H    EU          | think
++++++ |  TK     O  U  PB      | down
+  +++ |  T P H  O             | no
+  +++ | S     R   E           | very
+   ++ |  T P                  | if
++++++ |      H  O  U      T   | how the
+   ++ |          *            | *
+    + |      H  O  U       S  | house
++++++ |      HRA     RPBLG    | large
++++++ |  T    R   EU          | try
++++++ |        AO E F P       | each
++++++ |      HR   EUF         | live
++++++ |    P H  O    R        | more
++++++ |  T P H     U  P L     | numb
+   ++ |    PW     E  R        | *number  >TPHURPL
++++++ |        A    F         | after
++++++ | S      A   U    L     | /
+  +++ |          *            | *
+  +++ |   K    A   U    L     | call
+ ++++ |             F         | of
++++++ |      HRA      PB    D | land
+  +++ |     W R               | were
+ ++++ | STKP                  | /
+ ++++ |          *            | *
+   ++ | S KP                  | and
++++++ |  T   H AO E        S  | these
++++++ |     W      U      T   | /
+   ++ |          *            | *
+      |     W      U        D | would
++++++ |    P HRA  EU       S  | place
++++++ |     W              S  | with {^s}
+   ++ |          *            | *
+      |     W              S  | with {^s}
+ ++++ |          *            | *
+    + |     W  A           S  | was
++++++ |      H A      PB    D | hand
++++++ |        A   UF         | off
++++++ |      H A      PB    D | hand
+ ++++ |        A   UF         | off
++++++ |      H AO EU          | high
++++++ |  T P H A  EU  P L     | name
++++++ |       RA  E         D | read
++++++ |            U       S  | us
++++++ |        AO  U      T   | out
+  +++ |        A  EU          | a
++++++ |  T  W   O             | two
++++++ |        A            D | add
++++++ |     W R               | were
+  +++ |  T   H                | this
++++++ |  TK     O  U  PB      | down
++++++ |   K WH AO E  R        | year
++++++ |         O  U R        | our
+  +++ |    PW                 | about
++++++ |    P H AO EU          | my
++++++ |     W  A  EU          | way
++++++ | S         E       T   | set
+  +++ |             F         | of
++++++ |   K    A  EU  P L     | came
+   ++ |  TK                   | did
++++++ |        A          T   | at
++++++ |  TK     O             | do
++++++ |     W  A   U  PB  T   | want
++++++ |    P H    E   PB      | men
+ ++++ |  T   H    E           | they
++++++ |    PW       FR        | before
++++++ |      H AO E           | he
++++++ |  TKPW                 | go
++++++ |      H A      PB    D | hand
++++++ |        A   UF         | off
++++++ |      H AO EU          | high
++++++ |  T P H A  EU  P L     | name
++++++ |        A *E         D | ah {^ed}
+ ++++ |          *            | *
+ ++++ |       RA   U        D | raw {^ed}
+  +++ |          *            | *
++++++ |       RA  E         D | read
++++++ |            U       S  | us
++++++ |         O  U      T   | {out^}
+  +++ |        A  EU          | a
+ ++++ |  T  W   O             | two
+  +++ |        A            D | add
+  +++ |     W R               | were
+   ++ |  T   H                | this
++++++ |  TK     O  U  PB      | down
++++++ |   K W RAO E  R        | {^eer}
+    + |          *            | *
+  +++ |   K WH AO E  R        | year
++++++ |         O  U R        | our
+  +++ |    PW                 | about
++++++ |    P H AO EU          | my
++++++ |     W  A  EU          | way
++++++ | S         E       T   | set
+   ++ |             F         | of
++++++ |   K    A  EU  P L     | came
+   ++ |  TK                   | did
+  +++ |        A          T   | at
+  +++ |  TK     O             | do
++++++ |     W  A   U  PB  T   | want
++++++ |    P H    E   PB      | men
+  +++ |  T   H    E           | they
+ ++++ |    PW       FR        | before
+ ++++ |      H AO E           | he
+   ++ |  TKPW                 | go
++++++ |  T P                  | if
++++++ | S    H  O E           | show
+  +++ |  TKPW                 | go
++++++ |    PW     EU    L   D | build
++++++ |      H    E  R        | her
+  +++ |           EU          | I
++++++ |      H    EU  P L     | him
++++++ |    PW   O EU          | boy
++++++ |    P H AO  UF         | move
+ ++++ |  TK                   | did
+  +++ |   K                   | can
+ ++++ |  T P H                | in
+ ++++ |  T P H    EU          | any
++++++ |        AO  U      T   | out
++++++ |     W  A   U          | /
+   ++ |  T       *E  R        | {tera^}
+  +++ |          *            | *
+      |  T        E  R        | *water  >WAURT
++++++ |    PW         PB      | been
++++++ |      H AO EU RPBLG    | /
+    + |          *            | *
+    + |      HRAO    RPBLG    | /
+ ++++ |          *            | *
++++++ |      HRA     RPBL     | /
+  +++ |          *            | *
++++++ |      HRA     RPBLG    | large
++++++ |     W     E     L     | well
++++++ |    P H A  EU          | may
++++++ |         O     PB    D | {on^} {^ed}
++++++ |          *            | *
++++++ |           E   PB    D | end
++++++ |         O E     L   D | old
++++++ |    P H AO E   PB      | mean
++++++ |  TK     O          S  | does
++++++ |    P H A * U R    T   | /
+  +++ |          *            | *
++++++ |  T P   A * U R    T   | father
++++++ |  T                    | it
++++++ | S K W R    UF     T   | just  2>KPWH-PBLGSZ KPWH-PBLGTSDZ KPWHUF KPWHUFD
++++++ |     W RAO EU      T   | write
++++++ |        AO E F PB      | even
++++++ |        A  EU   B GT   | /
+   ++ |          *            | *
+    + |        A   U   B GT   | /
+  +++ |          *            | *
+    + |        A   U   B GT   | /
+    + |          *            | *
+    + |        A       B GT   | act
++++++ |  T   H    E   PB      | then
+   ++ |  T P                  | if
++++++ | S    H  O E           | show
+   ++ |  TKPW                 | go
++++++ |    PW     EU    L   D | build
++++++ |      H    E  R        | her
+  +++ |           EU          | I
++++++ |      H    EU  P L     | him
++++++ |    PW   O EU          | boy
++++++ |    P H AO  UF         | move
+   ++ |  TK                   | did
+   ++ |   K                   | can
+   ++ |  T P H                | in
+   ++ |  T P H    EU          | any
++++++ |        A   U      T   | aught
+  +++ |          *            | *
++++++ |        AO  U      T   | out
++++++ |     W   O  U          | wow
+ ++++ |          *            | *
++++++ |     W  A   U          | /
+  +++ |  T        E  R        | *water  >WAURT
++++++ |    PW         PB      | been
++++++ |      HRA     RPBLG    | large
++++++ |     W     E     L     | well
++++++ |    P H A  EU          | may
++++++ |           E   PB    D | end
++++++ |         O E     L   D | old
++++++ |    P H AO E   PB      | mean
++++++ |  TK     O          S  | does
++++++ |  T P   A * U R    T   | father
+   ++ |          *            | *
++++++ |  T                    | it  2>KPWH-U STKPWHR-RPT
++++++ | S K W R    UF     T   | just  2>KPWH-PBLGSZ KPWH-PBLGTSDZ KPWHUF KPWHUFD 3>KPWH-UPBLGSZ
++++++ |     W RAO EU      T   | write
++++++ |        AO E F PB      | even
++++++ |        A       B GT   | act
++++++ |  T   H    E   PB      | then
++++++ |              RPBL     | /
++++++ |  T P H     U          | new
+  +++ |        A   UF         | off
++++++ |  T   H    E   P L     | them
++++++ |           E FR        | every
+  +++ |  T   H    EU          | think
++++++ |  T P H        PB      | under
++++++ |  T         U RPB      | turn
++++++ |    P   AO E           | pee
+ ++++ |          *            | *
++++++ |     W  AO E           | we
++++++ | ST        E   PB   S  | sentence
++++++ |  T P H AO EU R        | /
+   ++ |      HR               | will
+    + |          *            | *
+      |          *            | *
++++++ |  T P H AO E  R        | near
++++++ |      HR               | will
++++++ |     W RAO EU      T   | write
++++++ | S         E F   L     | self
++++++ |      HRA      PB    D | land
++++++ |  TKPW     E   PB      | again
+  +++ | S     R               | have
+  +++ |               PB      | /
+  +++ |          *            | *
+      |          *            | *
+      |                B      | be
++++++ | S    H AO E           | she
++++++ |       RAO EU      T   | right
++++++ |  T P    O E  RP L     | /
+  +++ |          *            | *
++++++ |  T P    O    RP L     | form
+ ++++ | STK                   | /
+  +++ |          *            | *
+      | S K                   | ask
++++++ |   K    A   U    L     | call
++++++ |   K    AO EU  PB    D | kind
++++++ |                   T   | the
++++++ |      HR O E           | low
++++++ |      H    EU       S  | his
++++++ |      H AO EU          | high
++++++ |        A   U    L     | all
++++++ |        A  EU R        | air
++++++ |  T   H A  EU R        | their
++++++ |  T P H     U          | new
++++++ |        A   UF         | off
++++++ |  T   H    E   P L     | them
++++++ |           E FR        | every
+  +++ |  T   H    EU          | think
++++++ |  T P H        PB      | under
++++++ |  T         U RPB      | turn
++++++ |     W  A  E           | weigh
+   ++ |     W  AO E           | we
+    + |          *            | *
+      |          *            | *
+    + |     W  AO E           | we
++++++ | ST        E   PB   S  | sentence
++++++ |  T P H AO E  R        | near
+   ++ |      HR               | will
++++++ |     W RAO EU      T   | write
++++++ | S         E F   L     | self
++++++ |      HRA      PB    D | land
++++++ |  TKPW     E   PB      | again
+  +++ | S     R               | have
+  +++ |                B      | be
++++++ | S    H AO E           | she
+ ++++ |       RAO EU      T   | right
++++++ |  T P    O    RP L     | form
+  +++ | S K                   | ask
++++++ |   K    A   U    L     | call
++++++ |   K    AO EU  PB    D | kind
++++++ |                   T   | the
++++++ |      HR O E           | low
++++++ |      H    EU       S  | his
+  +++ |      H AO EU          | high
++++++ |        A   U    L     | all
+ ++++ |        A  EU R        | air
++++++ |  T   H A  EU R        | their
++++++ |         O E     L   D | old
+   ++ |           EU          | I
+  +++ |  T P H    EU          | any
++++++ |   K     O     P L     | come
++++++ |  T P    O    R        | {for^}
++++++ |    P H A      PBL     | animal
++++++ |    P H     UF     T   | must
+  +++ | S       O             | so
+  +++ |  T P H     U          | new
++++++ |        A      PB      | an
++++++ |     W     E     L     | well
++++++ |  T   HRAO E           | three
++++++ |     W      U  PB      | one
++++++ |  T P    O       L     | follow
++++++ |        AO E F PB      | even
+  +++ |  T P                  | if  2>TPAOEFPB
+   ++ |       R               | are
+   ++ |   K                   | can  2>STWREBGS
+  +++ |  T   H    EU          | think  2>STWRAPBG STKPWHRAPBG
++++++ |     W  AO E           | we
++++++ |  TKPW  AO           D | good
++++++ |      HR            S  | also
++++++ |  T P   AO EU  PB    D | find
++++++ | S       O     P L     | some
+  +++ |  T P H  O             | no
++++++ | S      AO EU        D | side
++++++ |     WH                | when
++++++ |     W   O    R      D | word
++++++ |                B      | be
++++++ |       R O  U  PB    D | round
++++++ |  T P   A *EU R    T   | /
+ ++++ |          *            | *
++++++ |  T P   A * U R    T   | father
++++++ |    P H AO E           | me
++++++ |     WH                | when
+   ++ |          *            | *
+    + |     W        R        | where
++++++ |         O E FR        | {over^}
++++++ |   K    A  EU          | quay
+  +++ |          *            | *
+  +++ |  TK    A  EU          | day
++++++ |      H AO E           | he
++++++ |  T P H A  EU  P L     | name
++++++ |    P H A  EU   B G    | make
++++++ |   K  H A  EU  PB G    | change
++++++ |            U       S  | us
++++++ |  T P H AO E  R        | near
++++++ |       RA  E         D | read
++++++ |    P H  O E  R        | mother
+   ++ |  T P H                | in
+  +++ |      H  O  U          | how
+  +++ | S                     | is
++++++ |    PW   O EU          | boy
++++++ |     W   O    R B G    | work
++++++ | S  P      E     L     | spell
++++++ |     W     E   PB  T   | went
++++++ |  T P H  O  U          | now
++++++ |   K    A   U    L     | call
++++++ |    PW      U      T   | but
++++++ |  TKPW     EUF         | give
++++++ |      H  O  U       S  | house
++++++ | S         E       T   | set
++++++ |    P       U      T   | put
++++++ |  T   H    E   PB      | then
+ ++++ |          *            | *
++++++ |  T   H    E   P L     | them
++++++ |        AO  U       S  | use
+ ++++ |      H AO EU          | high
++++++ |         O E     L   D | old
+   ++ |           EU          | I
+   ++ |  T P H    EU          | any
++++++ |   K     O     P L     | come
++++++ |  T P         R        | for
++++++ |    P H A      PBL     | animal
++++++ |    P H     UF     T   | must
+  +++ | S       O             | so
+   ++ |  T P H     U          | new
++++++ |        A      PB      | an
++++++ |     W     E     L     | well
++++++ |  T   HRAO E           | three
++++++ |     W      U  PB      | one
++++++ |  T P    O       L     | follow
++++++ |        AO E F PB      | even
+ ++++ |  T P                  | if  2>TPAOEFPB
+   ++ |       R               | are
+    + |   K                   | can  2>STWREBGS
+   ++ |  T   H    EU          | think  2>STWRAPBG STKPWHRAPBG
++++++ |     W  AO E           | we
++++++ |  TKPW  AO           D | good
++++++ |      HR            S  | also
++++++ |  T P   AO EU   B    D | /
+  +++ |          *            | *
+  +++ |  T PW  AO EU  PB    D | {#F9} {^ed}
+   ++ |          *            | *
++++++ |  T P   AO EU  PB    D | find
++++++ | S       O     P L     | some
+ ++++ |  T P H  O             | no
++++++ | S      AO EU        D | side
++++++ |     WH                | when
++++++ |     W   O    R      D | word
+ ++++ |                B      | be
++++++ |       R O  U  PB    D | round
++++++ |  T P   A * U R      D | /
+   ++ |          *            | *
+   ++ |  T P   A * U      T   | /
+   ++ |          *            | *
+    + |  T P   A * U R    T   | father
++++++ |    P H AO E           | me
++++++ |     W        R        | where
++++++ |         O E FR        | {over^}
++++++ |  TK    A  EU          | day
+ ++++ |      H AO E           | he
++++++ |  T P H A  EU  P L     | name
++++++ |    P H A  EU   B G    | make
++++++ |   K  H A      PB G    | chan {^ing}
+   ++ |          *            | *
+    + |   K  H A  EU  PB G    | change
++++++ |            U       S  | us
++++++ |  T P H AO E           | knee
+  +++ |          *            | *
++++++ |  T P H AO E  R        | near
++++++ |       RA  E         D | read
++++++ |    P H  O E  R        | mother
+   ++ |  T P H                | in
+  +++ |      H  O  U          | how
+ ++++ |                    S  | {^s}
+   ++ |          *            | *
+      | S                  S  | is {^s}
+  +++ | S                     | is
+      | S                     | is
+    + |          *            | *
+      |          *            | *
+      |          *            | *
+    + |          *            | *
+    + | S                     | is
++++++ |    PW   O EU          | boy
++++++ |     W   O    R B G    | work
++++++ | S  P      E     L     | spell
++++++ |    P H    E   PB  T   | meant
+  +++ |          *            | *
+ ++++ |     W     E   PB  T   | went
++++++ |  T P H  O  U          | now
++++++ |   K    A   U    L     | call
++++++ |    PW      U      T   | but
++++++ |  TKPW     EUF         | give
++++++ |      H  O  U       S  | house
++++++ |        A  E       T   | ate
+  +++ |          *            | *
+ ++++ | S         E       T   | set
++++++ |    P       U      T   | put
++++++ |  T   H    E   P L     | them
++++++ |        AO  U       S  | use
+  +++ |      H AO EU          | high
++++++ |           E   PB    D | end
+ ++++ |        A          T   | at
+  +++ |  T   H    E           | they
++++++ | S       O     PB    D | son {^ed}
+ ++++ |          *            | *
++++++ | S       O  U  PB    D | sound
++++++ |            U       S  | us
+   ++ |  T      O             | to
++++++ |    P   A  EU   B G    | /
+ ++++ |          *            | *
++++++ |  T     A  EU   B G    | take  2>STKPWHRURBT STKPWHRURBTD STWRURBTD STWRURBT
++++++ | S      A  EU  P L     | same
+ ++++ |        A   U R        | or
++++++ |  T P   A   U R    T   | for the
+  +++ |          *            | *
++++++ |  T P   A * U R    T   | father
++++++ |     WH                | when
++++++ |         O E   PBL     | only
++++++ |    P      E  R    T   | pert
+  +++ |          *            | *
+ ++++ |    P    O    R    T   | port
++++++ |        A   UF         | off
++++++ |      H  O E   P L     | home
+  +++ |  TKPW                 | go
+   ++ |  TK                   | did
++++++ |    P H AO E   PB      | mean
+   ++ |    PW                 | about
++++++ |    P H     UF     T   | must
++++++ | S    H AO E           | she
++++++ |  T         U RPB      | turn
++++++ |       RAO EU      T   | right
++++++ |     W   O    R  L   D | world
+ ++++ |   K WH                | why
++++++ |     W     E     L     | well
++++++ |  TKPW     E       T   | get
++++++ |         O E FR        | {over^}
++++++ |    P H A  EU        D | maid
+  +++ |          *            | *
++++++ |  T   H A  E         D | that he {^ed}
+  +++ |          *            | *
++++++ |    P H A  E         D | made
++++++ |  T   H                | this
+   ++ |          *            | *
++++++ |  T   H    E   PB      | then
++++++ | S  P      E     L     | spell
++++++ |      H    E  R        | her
++++++ |    P HRA  EU       S  | place
++++++ |      HRAO EU   B G    | like
++++++ |          *E  R    T   | earth
++++++ |     W RAO EU      T   | write
+ ++++ | S KP                  | and
+ ++++ |  T  W   O             | two
+ ++++ |        A   U    L     | all
++++++ |  T   HR    U          | through
++++++ |     W  A           S  | was
++++++ |    P H A      PB      | man
+ ++++ |  T P H     U          | new
++++++ |  T P         R        | for
+  +++ |              R        | are
++++++ |  T        E     L     | tell
++++++ |      H A           S  | has
++++++ |     W  A  EU          | way
++++++ |    P H A  EU          | may
++++++ |  TK     O  U  PB      | down
++++++ |  TKPW  AO           D | good
+ ++++ |  T   H A              | that
++++++ |      H    EU  P L     | him
++++++ |  TKPW     E   PB      | again
++++++ |    PW      U      T   | but
++++++ |         O     PB      | {on^}
++++++ |   K WH     U R        | your
++++++ | S  P H A   U    L     | small
++++++ |     W   O    R      D | word
++++++ | S       O     P L     | some
++++++ |           E   PB    D | end
++++++ | S                 T   | is the
+  +++ |          *            | *
++++++ |        A          T   | at
++++++ |  T   H    E           | they
++++++ | S       O  U  PB    D | sound
+ ++++ |            U       S  | us
+   ++ |  T      O             | to
++++++ |  T     A  EU   B G    | take  2>STKPWHRURBT STKPWHRURBTD STWRURBTD STWRURBT
++++++ | S      A  EU  P L     | same
+ ++++ |        A   U R        | or
++++++ |  T P   A * U R    T   | father
++++++ |     WH                | when
++++++ |         O E   PBL     | only
++++++ |    P    O    R    T   | port
+ ++++ |        A   UF         | off
++++++ |      H  O E   P L     | home
++++++ |  TKPW                 | go
+   ++ |  TK                   | did
++++++ |    P H AO E   PB      | mean
+  +++ |    PW                 | about
+ ++++ |    P H     UF     T   | must
++++++ | S    H AO E           | she
++++++ |  T         U RPB      | turn
++++++ |       RAO EU      T   | right
++++++ |     W   O    R  L   D | world
++++++ |   K WH                | why
++++++ |     W     E     L     | well
++++++ |  TKPW     E       T   | get
++++++ |         O E FR        | {over^}
++++++ |    P H A  EU        D | maid
+  +++ |          *            | *
++++++ |  T   H A  E         D | that he {^ed}
+ ++++ |          *            | *
+  +++ |    P H A  E         D | made
++++++ |    P H    E   PB      | men
+ ++++ |          *            | *
++++++ |  T   H    E   PB      | then
++++++ | S  P      E     L     | spell
++++++ |      H    E  R        | her
++++++ |  T   HRA  EU       S  | /
+  +++ |          *            | *
++++++ |  T   HRA  EU       S  | /
+  +++ |          *            | *
++++++ |    P HRA  EU       S  | place
++++++ |      HRAO EU   B G    | like
++++++ |          *E  R    T   | earth
++++++ |     W RAO EU      T   | write
+  +++ | S KP                  | and
++++++ |  T  W   O             | two
+ ++++ |        A   U    L     | all
+ ++++ |  T   HR    U          | through
++++++ |     W  A           S  | was
++++++ |    P H A      PB      | man
+ ++++ |  T P H     U          | new
++++++ |  T P         R        | for
+   ++ |              R        | are
++++++ |  T        E     L     | tell
+ ++++ |      H A           S  | has
++++++ |     W  A  EU          | way
+  +++ |    P H A  EU          | may
++++++ |  TK     O  U  PB      | down
++++++ |  TKPW  AO           D | good
++++++ |  T   H A              | that
++++++ |      H    EU  P L     | him
++++++ |  TKPW     E   PB      | again
++++++ |    PW      U      T   | but
++++++ |         O     PB      | {on^}
++++++ |   K WH     U R        | your
++++++ | S  P H A   U    L     | small
++++++ |     W     E  R      D | were {^ed}
+  +++ |          *            | *
+  +++ |     W   O    R      D | word
++++++ | S       O     P L     | some
++++++ |    P     *            | {>}{&p}
++++++ |        A *            | {>}{&a}
+    + |       R  *            | {>}{&r}
+      |        A *            | {>}{&a}
++++++ |      HR  *            | {>}{&l}
++++++ |      HR  *            | {>}{&l}
++++++ |          *E           | {>}{&e}
+    + |      HR  *            | {>}{&l}
+    + | S        *            | {>}{&s}  >PA*R/HRELZ PAEUR/HRELZ PAEUR/KWRA/HRELZ PA*R/HREL/-Z PAEUR/HREL/-Z PAEUR/KWRA/HREL/-Z
++++++ |       R      R        | {^~|\n^}
++++++ |  T P      EU R  L     | filler
++++++ |  T       *EU R  L     | /
+   ++ |  T P     *EU R  L     | /
+    + |  T P     *EU R  L     | /
+   ++ |           EU R  L     | irl
++++++ |   K W                 | request
+    + |       R               | are
+   ++ |          *            | *
+      |          *            | *
+      |          *            | *
++++++ |    P H    EU R  L     | miller
+  +++ |          *            | *
++++++ |    P H    EU R    T   | /
+   ++ |          *            | *
++++++ |    P H    EU R    T   | /
++++++ |          *            | *
++++++ |    P H    EU R     S  | mirror {^s}
+  +++ |          *            | *
+    + |    P H    EU R    TS  | /
+ ++++ |          *            | *
+   ++ |    P H    EU R    TS  | /
+    + |          *            | *
++++++ |    P H    EUF     T   | mist
+    + |       R   EU          | *mystery
++++++ |   K    A      P     D | capped
+  +++ |          *            | *
+  +++ |   K    A *    P     D | {:retro_case:cap_first_word}
++++++ |   K     O      B G    | cock
++++++ |  T     A *EU    L     | *cocktail
++++++ |  T     A *    P     D | tap {^ed}
+  +++ |          *            | *
++++++ |   K    A *    P     D | {:retro_case:cap_first_word}
++++++ |# T P H       R B      | {#Control_L(Left)}{^}
+  +++ |# T P H       R B      | {#Control_L(Left)}{^}
++++++ |# T P H                | In
++++++ |    PW       F P       | {#BackSpace}{^}
+  +++ |    PW       F P       | {#BackSpace}{^}
+ ++++ |    PW       F P       | {#BackSpace}{^}
+   ++ |    PW       F P       | {#BackSpace}{^}
++++++ |#          EU     G    | {&3000}
++++++ |       R      R        | {^~|\n^}
++++++ |   K  H    EU  PB G    | ching
+  +++ |          *            | *
++++++ |   K  H    E F PB      | /
+ ++++ |          *            | *
++++++ |   K  H    EUF PB      | /
+ ++++ |          *            | *
++++++ | S    H   *EU  PB      | /
+   ++ |          *            | *
++++++ |   K  H   *EU  PB      | chicken
++++++ |  T     A *    P     D | tap {^ed}
+  +++ |          *            | *
+  +++ |   K    A *    P     D | {:retro_case:cap_first_word}
++++++ |     W      U R        | with your
+  +++ |          *            | *
++++++ |    PW      U R        | burr
++++++ |           EU    L     | ill
+   ++ |          *            | *
+   ++ |           EU      T   | it
+   ++ |          *            | *
+   ++ |          *EU      T   | /
+   ++ |          *            | *
++++++ |         O EU      T   | {auto^}
+   ++ |          *            | *
+      |         O EU      T   | {auto^}
+    + |          *            | *
++++++ |          *            | *
++++++ |    PW RAO E           | brie
++++++ |   K     O E           | {co^}
+  +++ |          *            | *
++++++ |  T      O E           | *burrito
++++++ |   K    A *    P     D | {:retro_case:cap_first_word}
++++++ |    PW   O E     L     | bowl
+   ++ |          *            | *
+  +++ |    PW   O E     L     | bowl
++++++ |   K    A *    P     D | {:retro_case:cap_first_word}
++++++ |          *            | *
++++++ |          *            | *
++++++ |    P    O E    B G    | poke
+  +++ |          *            | *
+   ++ |    P    O E    B G    | poke
++++++ |  TK    A *E   P     D | /
+  +++ |          *            | *
+   ++ |   K    A *    P     D | {:retro_case:cap_first_word}  2>#POEBG
++++++ |#          E   PB G    | {&50} {^ing}
+   ++ |          *            | *
+    + |#           U  PB G    | {&500} {^ing}
+   ++ |          *            | *
+  +++ |                  G    | {^ing}
++++++ |#                 G    | {&3}
++++++ |#          E   PB      | {&50}
+ ++++ |          *            | *
+   ++ |#          EU  PB      | {&5000}
+   ++ |          *            | *
+    + |#          E   PB      | {&50}
+  +++ |          *            | *
+    + |#          EU  PB      | {&5000}
+ ++++ |          *            | *
+    + |#           U  PB      | {&500}
+   ++ |          *            | *
+  +++ |#           U  PB      | {&500}
++++++ |   K     O E     L   D | cold
+  +++ |   K      *            | {>}{&k}
+      |   K     O E     L   D | cold
+   ++ |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
+  +++ |   K     O E     L   D | cold
++++++ | S  P                  | {^^}
++++++ | S  P            L  S  | cold{^~|^}{^^}
++++++ | S  P            L  S  | cold{^~|^}{^^}
+      | S  P            L  S  | cold{^~|^}{^^}
+  +++ | S  P            L  S  | cold{^~|^}{^^}
++++++ | S  P            L  S  | cold{^~|^}{^^}
+    + | S  P            L  S  | cold{^~|^}{^^}
+    + | S  P            L  S  | cold{^~|^}{^^}
+      | S  P            L  S  | cold{^~|^}{^^}
+    + | S  P            L  S  | cold{^~|^}{^^}
+    + | S  P            L  S  | cold{^~|^}{^^}
+  +++ |          *            | *
++++++ |          *            | *
++++++ |   K     O E     L   D | cold
++++++ | S  P            L  S  | {&3}{^~|^}cold
++++++ |   K    A *    P     D | {:retro_case:cap_first_word}
+ ++++ |   K    A *    P     D | {:retro_case:cap_first_word}
+  +++ |          *            | *
+   ++ |          *            | *
+    + |          *            | *
+    + |          *            | *
+  +++ |          *            | *
+      |          *            | *
+      |          *            | *
+ ++++ |          *            | *
+   ++ |          *            | *
+ ++++ |          *            | *
+ ++++ |          *            | *
++++++ |   K     O E     L   D | cold
++++++ |   K    A *    P     D | {:retro_case:cap_first_word}
++++++ | S  P            L  S  | cold{^~|^}{:retro_case:cap_first_word}
+ ++++ | S  P            L  S  | cold{^~|^}{:retro_case:cap_first_word}
++++++ |# T P H       R B      | {#Control_L(Left)}{^}
++++++ |    PW       F P       | {#BackSpace}{^}
++++++ |# T P H         B G    | {#Control_L(Right)}{^}
++++++ |     W     E       TS  | wets
+  +++ |          *            | *
+ ++++ |    P      E       TS  | pet {^s}
+   ++ |          *            | *
++++++ |    P      E       TS  | pet {^s}
++++++ |          *            | *
++++++ |    P      E F     T   | pest
++++++ |         O E           | owe
+  +++ |          *            | *
+   ++ |         O*E           | oh
+   ++ |          *            | *
+    + |         O*            | {>}{&o}
+  +++ |         O*            | {>}{&o}
++++++ |          *            | *
+   ++ |          *            | *
+    + |          *            | *
++++++ |    P    O          S  | pos
+ ++++ |          *            | *
+ ++++ |    P      E        S  | /
++++++ |          *            | *
+   ++ |    P    O E        S  | pose
+   ++ |          *            | *
+      |    P    O          S  | pos
+ ++++ |          *            | *
+      |    P      E        S  | /
++++++ |  T      O E           | *pesto
++++++ |   K    A *    P     D | {:retro_case:cap_first_word}
++++++ |   K    A *    P     D | {:retro_case:cap_first_word}
+  +++ |   K    A *    P     D | {:retro_case:cap_first_word}
++++++ |   K    A *    P     D | {:retro_case:cap_first_word}
+      |   K    A *    P     D | {:retro_case:cap_first_word}
+      |   K    A *    P     D | {:retro_case:cap_first_word}
+      |   K    A *    P     D | {:retro_case:cap_first_word}
+      |   K    A *    P     D | {:retro_case:cap_first_word}
+      |   K    A *    P     D | {:retro_case:cap_first_word}
+      |   K    A *    P     D | {:retro_case:cap_first_word}
+      |   K    A *    P     D | {:retro_case:cap_first_word}
+      |   K    A *    P     D | {:retro_case:cap_first_word}
+      |   K    A *    P     D | {:retro_case:cap_first_word}
++++++ |          *            | *
++++++ |          *            | *
+ ++++ |          *            | *
+   ++ |          *            | *
++++++ |    P     *    P       | {&P}
++++++ |          *            | *
+    + |          *            | *
++++++ |    PW       F P       | {#BackSpace}{^}
++++++ |    P     *    P       | {&P}
+ ++++ |          *            | *
++++++ |    P     *    P       | {&P}
+ ++++ |          *E           | {>}{&e}
+  +++ | S        *            | {>}{&s}
++++++ |  T       *            | {>}{&t}
+  +++ |         O*            | {>}{&o}
++++++ |    P   A    F     T   | past
++++++ |          *            | *
++++++ | S  P                  | {^^}
+ ++++ | S  P                  | {^^}
+ ++++ | S  P                  | {^^}
++++++ |    P   A    F     T   | past
+   ++ |        A              | {a^}
+   ++ |          *            | *
+      |        A *            | {>}{&a}
+      |        A *            | {>}{&a}
+   ++ |          *            | *
+      |          *            | *
+    + |          *            | *
++++++ |    P   A          T   | pat
+   ++ |          *            | *
+      |    P   A           S  | pass  2>PA*S
++++++ |  T     A              | *pasta
++++++ |   K    A *    P     D | {:retro_case:cap_first_word}
++++++ |   K    A *    P     D | {:retro_case:cap_first_word}
++++++ |   K    A *    P     D | {:retro_case:cap_first_word}
+  +++ |   K    A *    P     D | {:retro_case:cap_first_word}
+   ++ |   K    A *    P     D | {:retro_case:cap_first_word}
+   ++ |   K    A *    P     D | {:retro_case:cap_first_word}
+   ++ |   K    A *    P     D | {:retro_case:cap_first_word}
+   ++ |   K    A *    P     D | {:retro_case:cap_first_word}
+   ++ |   K    A *    P     D | {:retro_case:cap_first_word}
++++++ |# T P H       R        | {#Left}{^}
+    + |# T P H       R        | {#Left}{^}
+    + |# T P H       R        | {#Left}{^}
+   ++ |# T P H       R        | {#Left}{^}
++++++ |    PW       F P       | {#BackSpace}{^}
++++++ |    P     *    P       | {&P}
++++++ |#                 G    | {&3}
++++++ |           E   PB      | {en^}
++++++ |#              PB      | {&5}
+  +++ |          *            | *
+    + |#          E   PB      | {&50}
+  +++ |          *            | *
+   ++ |#           U  PB      | {&500}
++++++ |  T   H A  EU          | that I
+ ++++ |          *            | *
+   ++ |  T   H A  EU          | that I
+   ++ |          *            | *
+ ++++ |  T   H A *EU          | /
++++++ |          *            | *
++++++ |  T       *    P       | {&T}
++++++ |      H   *            | {>}{&h}
++++++ |        A *            | {>}{&a}
+    + |          *EU          | {>}{&i}
++++++ | S             P       | {^ ^}
++++++ |  T P H   *    P       | {&N}
++++++ |         O*            | {>}{&o}
+    + |         O*            | {>}{&o}
+ ++++ |  TK      *            | {>}{&d}
+   ++ |      HR  *            | {>}{&l}
++++++ |          *E           | {>}{&e}
+    + | S        *            | {>}{&s}
++++++ | S             P       | {^ ^}
++++++ | S        *            | {>}{&s}
+   ++ |          *            | *
+   ++ | S        *    P       | {&S}
++++++ |        A *            | {>}{&a}
+    + |      HR  *            | {>}{&l}
+    + |        A *            | {>}{&a}
+  +++ |  TK      *            | {>}{&d}
++++++ |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
++++++ |# T P H           G    | {#Right}{^}
++++++ |    PW       F P       | {#BackSpace}{^}
++++++ |#                 G    | {&3}
+   ++ |            U  PB      | {un^}
++++++ |#           U  PB      | {&500}
++++++ |      H A        L     | /
++++++ |         O  U          | ow
+  +++ |    P H    EU          | my
+   ++ |          *            | *
+      |          *            | *
+    + |          *            | *
++++++ |      H   *    P       | {&H}
++++++ |        A *            | {>}{&a}
+    + |      HR  *            | {>}{&l}
+    + |      HR  *            | {>}{&l}
++++++ |          *E           | {>}{&e}
+   ++ |          * U          | {>}{&u}
+    + |    P H   *            | {>}{&m}
+    + |          *EU          | {>}{&i}
++++++ |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
++++++ |      HR  *            | {>}{&l}
+    + |         O*            | {>}{&o}
++++++ |          * U          | {>}{&u}
+    + |    P H   *            | {>}{&m}
+    + |          *EU          | {>}{&i}
++++++ | S             P       | {^ ^}
++++++ |    P     *    P       | {&P}
+   ++ |          *E           | {>}{&e}
+    + | S        *            | {>}{&s}
+ ++++ |  T       *            | {>}{&t}
+    + |         O*            | {>}{&o}
++++++ | S                     | is
+   ++ | S        *            | {>}{&s}
+  +++ |          *            | *
+   ++ |          *            | *
+    + | S             P       | {^ ^}
++++++ | S        *    P       | {&S}
++++++ |        A *            | {>}{&a}
+    + |  T P H   *            | {>}{&n}
++++++ | S        *            | {>}{&s}
+  +++ |          *            | *
+ ++++ |  TK      *            | {>}{&d}
+    + |    PW    *            | {>}{&b}
+  +++ |     W                 | with
+   ++ |          *            | *
+    + |          *            | *
+   ++ |     W    *            | {>}{&w}
+  +++ |          *EU          | {>}{&i}
++++++ |   K   R  *            | {>}{&c}
+    + |      H   *            | {>}{&h}
++++++ |#                 G    | {&3}
+ ++++ |#           U  PB      | {&500}
++++++ |               PB      | /
+ ++++ |             F PB      | /
+   ++ |             F PB      | /
++++++ |             F PB      | /
+   ++ |             F PB      | /
+   ++ |             F PB      | /
++++++ |             F PB      | /
+    + |             F PB      | /
+    + |             F PB      | /
+    + |             F PB      | /
+    + |             F PB      | /
+    + |             F PB      | /
++++++ |                B GT   | be the {^ing}
++++++ |                B GT   | be the {^ing}
+   ++ |                B GT   | be the {^ing}
+    + |                B GT   | be the {^ing}
++++++ |     W  AO E           | we
+  +++ |  T P         R        | for
++++++ |  T P   AO EU  PB    D | find
++++++ |  T     AO EU  P L     | time
++++++ |       RA  E         D | read
+  +++ |    P                  | people
++++++ |     W   O    R B G    | work
++++++ |    P H    EU  PB G    | minge
+  +++ |          *            | *
+ ++++ |  T   H    EU  PB G    | thing
++++++ |            U  P       | up
++++++ |    P H  O E F         | movie
+  +++ |          *            | *
++++++ |    P H AO  UF         | move
+   ++ |  T P H                | in
++++++ |  T    R   EU          | try
++++++ |  T  W   O             | two
++++++ |    P H    E F P       | /
+   ++ |          *            | *
+    + |    P H    E   P L     | member
+  +++ |          *            | *
+  +++ |  T   H    E   P L     | them
++++++ |    PW     EU     G    | big
++++++ |  T P H     U  P L     | numb
+   ++ |    PW     E  R        | *number  >TPHURPL
++++++ |   K WH AO E  R        | year
++++++ |    P   A     R    T   | part
++++++ |    P H  O    R        | more
++++++ |  T P    O    RP L     | form
++++++ |         O E     L   D | old
+   ++ |    PW                 | about
++++++ |     W     E   PB  T   | went
+   ++ | S K                   | ask
++++++ | ST P   A   U    L     |  if you look
+  +++ |          *            | *
++++++ | S  P H A   U    L     | small
++++++ |    P H A  EU        D | maid
+  +++ |          *            | *
++++++ |    P H A  E         D | made
++++++ |   K    A   U    L     | call
++++++ |        A      PB      | an
++++++ |  T   H    EU          | think
++++++ |   K    AO EU  PB    D | kind
++++++ |      HR               | will
++++++ |        AO E F PB      | even
++++++ |  T   H    E           | they
+   ++ |          *            | *
+   ++ |                   T   | the
++++++ |      H  O         T   | hot
++++++ |      H AO EU          | high
+ ++++ |  TKPW                 | go
++++++ |   K        U        D | could
++++++ |    P    O    R    T   | port
+ ++++ |  T P H    EU          | any
++++++ |           EU      T   | it
++++++ |   K     O     P L     | come
++++++ |    P HRA  EU          | play
++++++ | S          UF P       | such
+   ++ |      H                | had
++++++ |     W     E     L     | well
++++++ |  T P H     U          | new
++++++ |      H    EU       S  | his
++++++ |    P H    E   PB      | men
++++++ |   K W R    UF P       | /
+   ++ |          *            | *
+    + | S K W R    UF     T   | just
++++++ | S      A  EU          | say  2>STWRUFBS
++++++ |    PW     EU    L   D | build
++++++ |  TK     O             | do
++++++ |  T P      EUFR    T   | first
++++++ |        A          T   | at
++++++ | S         E F   L     | self
++++++ |    P H AO E           | me
++++++ |           E   PB    D | end
++++++ |    PW      U      T   | but
++++++ |    P H A  EU          | may
++++++ |     W   O    R      D | word
++++++ |     W  AO E           | we
+  +++ |  T P         R        | for
++++++ |  T P   AO EU  PB    D | find
++++++ |  T     AO EU  P L     | time
++++++ |       RA  E         D | read
+   ++ |    P                  | people
++++++ |     W   O    R B G    | work
++++++ |  T   H    EU  PB G    | thing
++++++ |            U  P       | up
++++++ |    P H AO  UF         | move
+  +++ |  T P H                | in
++++++ |  T    R   EU          | try
++++++ |  T  W   O             | two
++++++ |  T   H     U  P L T   | /
+  +++ |          *            | *
++++++ |  T   H    E   P L     | them
++++++ |    PW     EU     G    | big
++++++ |  T P H     U  P L     | numb
+   ++ |    PW     E  R        | *number  >TPHURPL
++++++ |   K WH AO E  R        | year
++++++ |    P    O    R    T   | port
+  +++ |          *            | *
++++++ |    P H A     R    T   | mart
+  +++ |          *            | *
+   ++ |    P    O    R    T   | port
+   ++ |          *            | *
+    + |    P   A     R    T   | part
++++++ |    P H  O    R        | more
++++++ |  T P    O    RP L T   | format
+  +++ |          *            | *
++++++ |    P         RP L     | /
+      |  T P    O       L     | follow
+   ++ |          *            | *
++++++ |  T P    O    RP L     | form
+  +++ |          *            | *
+      |          *            | *
++++++ |  T P    O    RP L     | form
++++++ |         O E     L   D | old
+ ++++ |    PW                 | about
++++++ |     W     E   PB  T   | went
+   ++ | S K                   | ask
++++++ | S  P H A   U    L     | small
++++++ |    P H A  E         D | made
++++++ | S      A   U    L     | /
+  +++ |          *            | *
+  +++ |   K    A   U    L     | call
++++++ |        A      PB      | an
+  +++ |  T   H    EU          | think
++++++ |   K    AO EU  PB    D | kind
+   ++ |      HR               | will
++++++ |        AO E F PB      | even
++++++ |                   T   | the
++++++ |      H  O         T   | hot
+ ++++ |      H AO EU          | high
+  +++ |  TKPW                 | go
++++++ |   K        U        D | could
++++++ |    P    O         T   | pot
+  +++ |          *            | *
++++++ |    P    O    R    T   | port
++++++ |  T P H    EU          | any
+  +++ |  T                    | it
++++++ |   K     O     P L     | come
++++++ |  T   HRA  EU          | /
+ ++++ |          *            | *
++++++ |    P HRA  EU          | play
++++++ | S          UF P       | such
+  +++ |      H                | had
++++++ |     W     E     L     | well
+ ++++ |  T P H     U          | new
++++++ |      H    EU       S  | his
++++++ |    P H    E   P L     | member
+   ++ |          *            | *
+ ++++ |    P H    E   PB      | men
++++++ | S K W R    UF     T   | just
++++++ | S      A  EU          | say  2>STWRUFBS
++++++ |    PW     EU    L   D | build
++++++ |  TK     O             | do
++++++ |  T P      E FR    T   | /
+  +++ |          *            | *
+ ++++ |  T P      EUF     T   | fist
+   ++ |          *            | *
+    + |  T P      EUF     T   | fist
+   ++ |          *            | *
+    + |  T P      EUFR    T   | first
++++++ |           E       T   | /
+   ++ |          *            | *
+      |        A          T   | at
++++++ | S         E F   L     | self
+ ++++ |    P H AO E           | me
++++++ |           E   PB    D | end
+ ++++ |    PW      U      T   | but
++++++ |    P H A  EU          | may
++++++ |     W   O    R      D | word
++++++ |     WH A              | what
+ ++++ |      HRAO EU      T   | light
++++++ |  TK     O  U  PB      | down
++++++ |     W  A   U  PB  T   | want
++++++ | S K                   | ask
+ ++++ |        A   UF         | off
++++++ |      HRAO EU   B G    | like
++++++ |    PW         PB      | been
++++++ |    P H AO E   PB      | mean
++++++ |      H    E   P       | help
++++++ |  TKPW  AO           D | good
+ ++++ |      H    EU  P L     | him
++++++ |        A   U      T   | aught
+   ++ |          *            | *
+ ++++ |        AO  U      T   | out
++++++ | S       O  U  PB    D | sound
++++++ |  TKPW  A       B G    | /
+ ++++ |          *            | *
+ ++++ |  TKPW  A       B G    | /
+  +++ |          *            | *
+   ++ |    PW  A       B G    | back
++++++ |        A   U  PB      | on
++++++ |        A  EU          | a
++++++ |  T     A  EU   B G    | take
++++++ |      H  O  U       S  | house
+  +++ |  T P H  O  U          | now
+ ++++ |    PW       FR        | before
+   ++ |  TK                   | did
++++++ |    P H A  EU  P L     | maim
+ ++++ |          *            | *
++++++ |  T P H A  EU  P L     | name
++++++ |    P H    E   PB      | men
+  +++ | S         E       T   | set
++++++ |    PW      U      T   | but
++++++ |   K  H A  EU  PB G    | change
++++++ |         O E     L   D | old
++++++ |        A  EU R        | air
++++++ |    PW     EU     G    | big
++++++ |     W     E   PB  T   | went
++++++ |    P H AO  UF         | move
++++++ |     W   O    R      D | word
++++++ |            U        D | you'd
+  +++ |          *            | *
+ ++++ |            U       S  | us
++++++ |      H    E  R        | her
++++++ |    P H  O E F     T   | most
++++++ |  T   HR               | there
++++++ | S     R   E           | very
+    + |          *            | *
++++++ |           E FR        | every
++++++ |     WH  O             | who
++++++ |     W   O    R B G    | work
++++++ |#                      | work
+    + |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
+      |#                      | work
++++++ |    P H   *            | {>}{&m}
+ ++++ |          *            | *
+  +++ |    P H   *    P       | {&M}
++++++ |          *            | *
+   ++ |          *            | *
++++++ |    P H   *            | {>}{&m}
+   ++ |          *            | *
+   ++ |    P H   *    P       | {&M}
++++++ | S  P                  | {^^}
++++++ | S  P            L  S  | {&M}{^~|^}{^^}
+  +++ | S  P            L  S  | {&M}{^~|^}{^^}
+      | S  P            L  S  | {&M}{^~|^}{^^}
++++++ |# T P H       R        | {#Left}{^}
++++++ |    PW       F P       | {#BackSpace}{^}
++++++ |# T P H           G    | {#Right}{^}
++++++ |        A *            | {>}{&a}
++++++ |        A *            | {>}{&a}
+   ++ |        A *            | {>}{&a}
++++++ |        A *            | {>}{&a}
+      |        A *            | {>}{&a}
+      |        A *            | {>}{&a}
+    + |  T       *            | {>}{&t}
+   ++ |          *            | *
+    + |          *            | *
+    + |          *            | *
++++++ |  T       *            | {>}{&t}
+  +++ |   K   R  *            | {>}{&c}
+    + |      H   *            | {>}{&h}
+   ++ |        A *            | {>}{&a}
++++++ | S             P       | {^ ^}
++++++ |  T       *    P       | {&T}
++++++ |         O*            | {>}{&o}
+    + |  T P H   *            | {>}{&n}
+   ++ |          *EU          | {>}{&i}
+  +++ |   K   R  *            | {>}{&c}
++++++ |#             R        | {&1}
++++++ |#           U  P       | {&800}
++++++ |  T       *            | {>}{&t}
+    + |         O*            | {>}{&o}
++++++ |  T P H   *            | {>}{&n}
+    + |          *EU          | {>}{&i}
++++++ |# T P H         B      | {#Down}{^}
+   ++ |# T P H         B      | {#Down}{^}
+  +++ |       R      R        | {^~|\n^}
++++++ |#             R        | {&1}
++++++ |# T P H         B      | {#Down}{^}
+   ++ |# T P H       R        | {#Left}{^}
+   ++ |# T P H       R        | {#Left}{^}
++++++ |  T P   A          T   | fat
++++++ |    P H A          T   | mat
++++++ |          *            | *
+   ++ |          *            | *
++++++ |    P H   *            | {>}{&m}
++++++ |        A *            | {>}{&a}
+    + |  T       *            | {>}{&t}
+ ++++ |   K   R  *            | {>}{&c}
++++++ |# T P H        P       | {#Up}{^}
++++++ |       R      R        | {^~|\n^}
++++++ |  T P          P L     | {.}
++++++ |#          E           | {&0}
+   ++ |#          E           | {&0}
++++++ |#               B      | {&2}
++++++ |# T P H       R B      | {#Control_L(Left)}{^}
+ ++++ |# T P H         B      | {#Down}{^}
+   ++ |# T P H       R        | {#Left}{^}
+    + |# T P H       R        | {#Left}{^}
++++++ |     W  A   U          | /
++++++ |  T        E  R        | *water  >WAURT
++++++ |# T P H         B      | {#Down}{^}
++++++ |       R      R        | {^~|\n^}
++++++ |  T P          P L     | {.}
++++++ |#          E           | {&0}
+  +++ |#                 G    | {&3}
++++++ |       R      R        | {^~|\n^}
++++++ |    P H   *            | {>}{&m}
+    + |        A *            | {>}{&a}
+   ++ |  T       *            | {>}{&t}
++++++ |   K   R  *            | {>}{&c}
++++++ |      H   *            | {>}{&h}
+    + |        A *            | {>}{&a}
++++++ |#               B      | {&2}
++++++ |                     D | {^ed}
++++++ |    PW         P       | /
+   ++ |    PW       F P       | {#BackSpace}{^}
+  +++ |    PW       F P       | {#BackSpace}{^}
+   ++ |    PW       F P       | {#BackSpace}{^}
++++++ |  T P          P L     | {.}
++++++ |#                 G    | {&3}
+      |#                 G    | {&3}
+  +++ |#          E           | {&0}
+    + |#          E           | {&0}
+      |#          E           | {&0}
++++++ |                     D | {^ed}
+      |                     D | {^ed}
+      |                     D | {^ed}
+      |                     D | {^ed}
++++++ |    PW       F P       | {#BackSpace}{^}
+      |    PW       F P       | {#BackSpace}{^}
+      |    PW       F P       | {#BackSpace}{^}
++++++ |#             R        | {&1}
++++++ |#               B      | {&2}
++++++ |  T P          P L     | {.}
++++++ |#               B      | {&2}
++++++ |          *            | *
++++++ |#         *     B      | {^}2{^}
++++++ | S K WH      FRP       | /
+  +++ |          *            | *
+   ++ | S K WH       RP       | {^} / {^}
++++++ |#          E           | {&0}
++++++ |  T P          P L     | {.}
++++++ |#         *     B      | {^}2{^}
+    + |#         *     B      | {^}2{^}
+  +++ |          *            | *
+      |          *            | *
+  +++ |#                 G    | {&3}
+      |#                LG    | {&6}
+   ++ |          *            | *
+      |          *            | *
+   ++ |#         *       G    | {^}3{^}
+   ++ |#         *       G    | {^}3{^}
++++++ |    PW       F P       | {#BackSpace}{^}
++++++ |#          E           | {&0}
+    + |  T P          P L     | {.}
++++++ |#            F         | {&7}
++++++ |#         *            | {^}7{^}
++++++ |#                LG    | {&6}
++++++ |          *            | *
+      |          *            | *
++++++ |  T P          P L     | {.}
++++++ |#                LG    | {&6}
++++++ |  T P          P L     | {.}
+ ++++ |#                 G    | {&3}
+      |#                 G    | {&3}
++++++ |  T P          P L     | {.}
++++++ |#                 G    | {&3}
+      |#                 G    | {&3}
++++++ |#             R        | {&1}
++++++ |# T P H           G    | {#Right}{^}
+   ++ |# T P H           G    | {#Right}{^}
++++++ |    PW       F P       | {#BackSpace}{^}
++++++ |#             R        | {&1}
++++++ |#               B      | {&2}
+  +++ |#          E           | {&0}
+    + |#          E           | {&0}
+    + |#          E           | {&0}
++++++ |     W    *    P       | {&W}
++++++ |          *            | *
+ ++++ |    PW    *    P       | {&B}
++++++ |          * U          | {>}{&u}
+  +++ |    P H   *            | {>}{&m}
++++++ |    PW    *            | {>}{&b}
+   ++ |      HR  *            | {>}{&l}
+   ++ |          *E           | {>}{&e}
++++++ | S K W R  *            | {>}{&j}
++++++ |       R      R        | {^~|\n^}
++++++ |  T P          P L     | {.}
++++++ |#               B      | {&2}
+      |#               B      | {&2}
++++++ |    PW       F P       | {#BackSpace}{^}
++++++ |#             R        | {&1}
++++++ | S          UF P       | such
++++++ |  T P H  O       L     | normal
+  +++ |          *            | *
++++++ |  T P    O       L     | follow
++++++ |     WHR               | whether
+   ++ |          *            | *
++++++ |     W        R        | where
++++++ |   K    A  EU   B G    | cake
+ ++++ |          *            | *
++++++ |  T     A  EU   B G    | take
++++++ |  T  W   O             | two
++++++ |    P      EU     G    | pig
+ ++++ |          *            | *
+    + |    P      EU   B G    | pick
++++++ |   K  H     U R        | *picture  >P*EUFP
++++++ |         O E  R        | other
++++++ |    P HRA  EU          | play
++++++ |   K  H A      PB G    | chan {^ing}
+   ++ |          *            | *
+    + |   K  H A  EU  PB G    | change
++++++ |    P  R O             | {pro^}
+  +++ |          *            | *
++++++ |     WH  O             | who
++++++ |     W                 | with
++++++ |        A   UF         | off
+   ++ |          *            | *
+      |             F         | of
++++++ |  T   H    EU  PB G    | thing
++++++ |      HRAO EU   B G    | like
+ ++++ |  T   H A              | that
+ ++++ |        A  EU R        | air
++++++ | S       O  U  PB    D | sound
++++++ |    P H AO E   PB      | mean
++++++ |    P H     UF P       | much
++++++ |  TK       EUFR        | differ
++++++ |  T   HR    U          | through
++++++ |    P    O    R    T   | port
++++++ |  T   H    E   PB      | then
++++++ |    P H  O E   PB      | moan
+   ++ |          *            | *
++++++ |    P   A *E   PB      | /
++++++ |          *            | *
++++++ |    P H A *E   PB      | many
++++++ |  TKPW  AO           D | good
+  +++ |    P                  | people
++++++ |      HRAO      B G    | look
+  +++ |      H AO EU          | high
+ ++++ |      H  O  U          | how
++++++ |  T P      EU  PB    D | fin {^ed}
+ ++++ |          *            | *
++++++ |  T P H AO EU  PB    D | nine {^ed}
+  +++ |          *            | *
++++++ |  T P   AO EU  PB    D | find
++++++ |  T P H  O E           | know
+ ++++ |        A            D | add
++++++ |     W RA  EU      T   | /
+  +++ |          *            | *
+  +++ |     W RAO EU      T   | write
++++++ |       RA  E         D | read
++++++ | S      A  EU  P L     | same
+ ++++ |  T   H    E           | they
++++++ |     W  A   U          | /
+ ++++ |   K       E  R        | ker
+  +++ |          *            | *
+   ++ |  T        E  R        | *water  >WAURT
++++++ | ST        E   PB   S  | sentence
++++++ |  T P H  O  U          | now
++++++ | S    H  O E           | show
++++++ | S  P H A   U    L     | small
++++++ |      HR   EU    L     | little
++++++ |      HR O     PB G    | long
++++++ |    P H  O E  R        | mother
++++++ |    P H A  E         D | made
++++++ |  TKPW     E       T   | get
++++++ |  T   H                | this
++++++ |         O     PB      | {on^}
++++++ | S  P      E     L     | spell
++++++ |    P H  O E F P       | /
+   ++ |          *            | *
++++++ |    P H  O E F     T   | most
++++++ |      H    E  R        | her
+ ++++ |    PW                 | about
++++++ |     W     EU          | which
+ ++++ | S K                   | ask
++++++ |    PW       FR        | before
++++++ |  T   HRAO E           | three
+   ++ |  T      O             | to
+  +++ | S     R               | have  2>STKPWHRUTD STWRUT TOF STWRUTD STKPWHRUT
++++++ |        A           S  | as
++++++ |  T P H        PB      | under
++++++ |        A   UF P       | /
+   ++ |          *            | *
+ ++++ | S          UF P       | such
++++++ |  T P    O       L     | follow
++++++ |     W        R        | where
++++++ |  T     A  EU   B G    | take
++++++ |  T  W   O             | two
++++++ |    P      EU   B G    | pick
++++++ |   K  H     U R        | *picture  >P*EUFP
++++++ |         O E  R        | other
++++++ |  T   HRA  EU          | /
+  +++ |          *            | *
+ ++++ |    P HRA  EU          | play
++++++ |   K  H A  EU  PB G    | change
++++++ |    P  R O             | {pro^}
+  +++ |          *            | *
++++++ |     WH  O             | who
+  +++ |     W                 | with
+   ++ |             F         | of
+   ++ |  T   H    EU          | think
+   ++ |          *            | *
++++++ |  T   H    EU  PB G    | thing
++++++ |      HRAO EU   B G    | like
++++++ |  T   H A              | that
+ ++++ |        A  EU R        | air
++++++ | S       O EU  PB    D | /
+   ++ |          *            | *
+      | S       O  U  PB    D | sound
++++++ |    P H AO E   PB      | mean
++++++ |    P H     UF P       | much
++++++ |  TK       EUFR        | differ
++++++ |  T   HR    U          | through
++++++ |    P    O    R    T   | port
++++++ |  T   H    E   PB      | then
++++++ |    P H A *E   PB      | many
++++++ |  TKPW  AO           D | good
++++++ |    P                  | people
+ ++++ |          *            | *
++++++ |          *            | *
+      |          *            | *
++++++ |    P H                | /
+  +++ |          *            | *
+    + |    P                  | people
++++++ |      HRAO      B G    | look
+   ++ |      H AO EU          | high
+  +++ |      H  O  U          | how
++++++ |  T P   AO EU  PB    D | find
+ ++++ |  T P H  O E           | know
+  +++ |        A            D | add
++++++ |     W RAO EU      T   | write
++++++ |       RA  E         D | read
++++++ |   K    A  EU  P L     | came
+  +++ |          *            | *
+  +++ | S      A  EU  P L     | same
++++++ |  T   H    E           | they
++++++ |     W  A   U          | /
+   ++ |   K       E  R        | ker
+  +++ |          *            | *
+      |  T        E  R        | *water  >WAURT
++++++ | ST        E   PB      | sten
+  +++ |          *            | *
+    + | ST        E   PB   S  | sentence
++++++ |  T P H  O  U          | now
++++++ | S    H  O E           | show
++++++ | S  P H A   U    L     | small
+ ++++ |      HR   EU    L     | little
++++++ |      HR   E   PB G    | length
+   ++ |          *            | *
+   ++ |      HR O     PB G    | long
++++++ |    P H  O E  R        | mother
++++++ |    P H A  E         D | made
++++++ |  TKPW     E       T   | get
+   ++ |  T   H                | this
++++++ |        A   U  PB      | on
++++++ | S  P    O       L     | /
+   ++ |          *            | *
+      | S  P      E     L     | spell
++++++ |    P H  O E   P       | mope
+   ++ |          *            | *
+    + |    P H  O E F     T   | most
++++++ |      H    E  R        | her
+ ++++ |    PW                 | about
++++++ |     W     EU          | which
++++++ | S K                   | ask
+ ++++ |    PW       FR        | before
++++++ |  T   HRAO E           | three
+   ++ |  T      O             | to
+  +++ | S     R               | have  2>STKPWHRUTD STWRUT TOF STWRUTD STKPWHRUT
++++++ |        A           S  | as
+ ++++ |  T P H        PB      | under
++++++ |  T P H    EU          | any
+ ++++ |   K W     EUF         | /
+   ++ |          *            | *
+   ++ |  TKPW     EUF         | give
++++++ | ST        E   PB   S  | sentence
++++++ |    P H     UF     T   | must
++++++ |    PW      U      T   | but
++++++ |    P H    E   PB      | men
++++++ |      HR   EUF         | live
+ ++++ |     W                 | with
+  +++ |     W  AO E           | we
+    + |          *            | *
+    + |          *            | *
+   ++ |     W  AO E           | we
+ ++++ |                   T   | the
+   ++ |          *            | *
+   ++ |  T                    | it
++++++ |        A   U R        | or
+  +++ |          *            | *
++++++ |         O  U R        | our
++++++ |   K    AO EU  PB    D | kind
++++++ |    PW  A       B G    | back
++++++ |      HRAO EU   B G    | like
+   ++ |    P                  | people
++++++ |      H  O  U       S  | house
++++++ |   K WH AO E  R        | year
++++++ |  T P    O       L     | follow
++++++ | S          UF     T   | /
+    + |          *            | *
+      | S          UF         | /
+   ++ | S        * UF P       | /
+   ++ |          *            | *
+      |          *            | *
+      | S          UF P       | such
++++++ |  TKPW     E   PB      | again
+  +++ |  T   H A              | that
+  +++ |          *            | *
++++++ |     WH A              | what
++++++ |      H AO EU          | high
++++++ |    PW     EU    L   D | build
++++++ |         O E  R        | other
+  +++ | S     R   E           | very
+  +++ | S                     | is
++++++ |         O E  R        | other
+  +++ |          *            | *
++++++ |        A   UFR        | over
++++++ |        A   U    L     | all
++++++ |  T         U RPB      | turn
++++++ |    P H  O    R        | more
++++++ |     W      U      T   | /
+  +++ |          *            | *
+ ++++ |     W      U        D | would
++++++ |     WH    E   PB      | when
++++++ |   K    A  EU          | quay
+  +++ |          *            | *
+   ++ |  TK    A  EU          | day
++++++ |    P HRA  EU       S  | place
+ ++++ |  TKPW                 | go
++++++ |     W      U  PB      | one
++++++ |  T P    O    RP L     | form
++++++ |      H  O E   P L     | home
++++++ |     W  A           S  | was
++++++ |        A  EU R        | air
++++++ | S  P H A   U    L     | small
+  +++ |     W                 | with
+  +++ |  T P H  O  U          | now
++++++ |  T        E     L     | tell
++++++ |        A          T   | at
++++++ |           E   PB    D | end
+  +++ |  T P H        PB      | under
++++++ |    P H  O E  R        | mother
+  +++ |  TK                   | did
+  +++ |           EU          | I  2>SWR-UD
++++++ |     W   O    R  L   D | world
++++++ |    PW     E     L     | bell
+ ++++ |          *            | *
++++++ |     W     E     L     | well
++++++ |   K    A  EU  P L     | came
+ ++++ |    P H    EU          | my
++++++ |      HRA      PB    D | land
++++++ |     W     EU          | which
++++++ |  TKPW     E       T   | get
++++++ |  T   HRA  EU          | /
+  +++ |          *            | *
+ ++++ |    P H A  EU          | may
+   ++ |          *            | *
+   ++ |    P HRA  EU          | play
+  +++ |      H                | had
+ ++++ |    P H AO E           | me
++++++ |  T  W   O             | two
+  +++ |  T P H    EU          | any
++++++ |  TKPW     EUF         | give
++++++ | ST        E   PB   S  | sentence
++++++ |    P H     UF     T   | must
++++++ |    PW      U      T   | but
++++++ |    P H    E   PB      | men
++++++ |      HR   EUF         | live
++++++ |     W     E           | /
++++++ | S                     | is
+ ++++ |          *            | *
+  +++ |  T                    | it
++++++ |        A   U R        | or
+  +++ |          *            | *
+ ++++ |         O  U R        | our
++++++ |   K       EU  PB    D | kind
++++++ |  TKPW  A       B G    | /
+  +++ |          *            | *
++++++ |    PW  A       B G    | back
++++++ |      HRAO EU   B G    | like
+   ++ |    P                  | people
++++++ |      H  O  U       S  | house
++++++ | S K WH AO E  R        | {} • {}
+  +++ |          *            | *
++++++ |   K WH AO E  R        | year
++++++ |  T P    O       L     | follow
++++++ | S          UF P       | such
++++++ |  TKPW     E   PB      | again
++++++ |     WH A              | what
+ ++++ |      HRAO EU          | lie
+  +++ |          *            | *
++++++ |      H AO EU          | high
++++++ |                 L     | {^le}
+      |                 L     | {^le}
+ ++++ |    PW     EU    L   D | build
+    + |          *            | *
+    + |          *            | *
+   ++ |    PW     EU    L   D | build
+    + |          *            | *
+    + |          *            | *
+  +++ |    PW     EU    L   D | build
+  +++ |         O E FR        | {over^}
+  +++ |          *            | *
+  +++ |         O E  R        | other
++++++ | S     R   E           | very
+   ++ | S                     | is
++++++ |        A   UFR        | over
+ ++++ |        A   U    L     | all
++++++ |  T         U RPB      | turn
++++++ |    P H  O    R        | more
++++++ |     W      U      T   | /
+    + |          *            | *
+      |     W      U        D | would
++++++ |     WH    E   PB      | when
++++++ |  TK    A  EU          | day
++++++ |    P HRA  EU       S  | place
+  +++ |  TKPW                 | go
++++++ |     W     EU  PB      | win
+  +++ |          *            | *
+    + |     W      U  PB      | one
++++++ |  T P    O    RP L     | form
++++++ |      H  O E   P L     | home
++++++ |     W  A           S  | was
+ ++++ |        A  EU R        | air
++++++ | S  P H A   U    L     | small
+   ++ |     W                 | with
++++++ |  T P H  O  U          | now
++++++ |  T        E     L     | tell
+ ++++ |        A          T   | at
++++++ |           E   PB    D | end
++++++ |  T P H        PB      | under
++++++ |    P H  O E  R        | mother
+   ++ |  TK                   | did
+   ++ |           EU          | I  2>SWR-UD
++++++ |     W   O    R  L   D | world
++++++ |     W     E     L     | well
++++++ |   K    A  EU  P L     | came
+ ++++ |    P H    EU          | my
++++++ |      HRA      PB    D | land
++++++ |     W     EU          | which
++++++ |  TKPW     E       T   | get
++++++ |    P HRA  EU          | play
+   ++ |      H                | had
++++++ |    P H AO E           | me
+ ++++ |  T  W   O             | two
++++++ |    P  R         L     | /
+  +++ |          *            | *
++++++ |    P  RA        L     | principal
+   ++ |          *            | *
+      |    P   A        L     | pal
+   ++ |          *            | *
+ ++++ |    P   A     R        | par
+   ++ |          *            | *
+    + |    P   A     R  L     | particle
+   ++ |          *            | *
++++++ |    P   A  E  R  L     | parole
+  +++ |          *            | *
+      |    P   A  E  R  L     | parole
+   ++ |          *            | *
++++++ |    P HRA  E  R  L     | /
+   ++ |          *            | *
++++++ |    P   A *   R        | {para^}
++++++ |      HR   E     L     | *parallel
++++++ |       R      R        | {^~|\n^}
++++++ | S K   R      R B      | {#command(shift(4))}
++++++ |  T        E     L     | tell
+ ++++ |    P H AO E   PB      | mean
++++++ |  T   H A  EU R        | their
++++++ | S         E F   L     | self
++++++ |      H  O  U       S  | house
+   ++ |    PW                 | about
++++++ |      H    EU  P L     | him
++++++ |     W  AO E           | we
++++++ |        A  EU R        | air
++++++ |     W     E     L     | well
++++++ |  T P H A  EU  P L     | name
++++++ |   K        U        D | could
++++++ |        A   U  PB      | on
++++++ |  TK       EUFR        | differ
++++++ |     WH A              | what
++++++ | STKP                  | /
+  +++ |          *            | *
+      |          *            | *
+   ++ | S KP                  | and
++++++ |  T  W   O             | two
+ ++++ |          *E  R    T   | earth
++++++ |       R O  U  PB    D | round
++++++ |   K  H A  EU  PB G    | change
++++++ |     W RAO EU      T   | write
++++++ |     WH     U          | when you
+   ++ |          *            | *
+   ++ |     WH  O             | who
++++++ |#     H  O E           | /
+  +++ |          *            | *
+  +++ | S    H  O E           | show
++++++ |    P H  O E F P       | /
+    + |          *            | *
+    + |    P H  O E F     T   | most
++++++ |     W R               | were
+  +++ |    P                  | people
+   ++ |   K                   | can
++++++ |  T P    O    RP L     | form
+ ++++ |  T   H    EU          | think
++++++ | S    H    E           | /
+      | S    H    E           | /
+ ++++ |          *            | *
++++++ |    P H  O*   R    T   | mother
++++++ | S K W R    UF     T   | just
++++++ |    P       U      T   | put  2>STWRUFPS STKPWHRUFPSZ STWRUFPSZ
++++++ |    PW         PB      | been
++++++ | S  P      E     L     | spell
++++++ |    P H A  EU        D | maid
+ ++++ |          *            | *
++++++ |    P H A  E         D | made
++++++ |        A   U    L     | all
+   ++ |          *            | *
+      |        A   U      T   | aught
+  +++ |          *            | *
+   ++ |        AO  U      T   | out
++++++ |  T   HRA  EU          | /
+  +++ |          *            | *
+ ++++ |    P HRA  EU          | play
++++++ |  T   H    EU  PB G    | thing
++++++ |   K    A   U    L     | call
++++++ |      H    E  R        | her
++++++ |      H A           S  | has
++++++ |      HR               | will  2>STKPWHR-FRBGS
++++++ |     W     E   PB  T   | went
++++++ | S       O  U  PB    D | sound
+   ++ |  T P                  | if
+ ++++ |  T     AO             | too
++++++ |  T   HRAO E           | three
+ ++++ |  T   HR    U          | through
++++++ | S       O     P L     | some
++++++ |      HR   EUF         | live
++++++ |        A  E F         | avenue
+    + |          *            | *
+      |        A  E  R        | /
+  +++ |          *            | *
+   ++ |         O E  R        | other
++++++ |        A       B GT   | act
++++++ |  TKPW     EUF         | give
+   ++ |           EU          | I
++++++ | S      A  EU          | say  2>SWR-BS
++++++ |  T P H  O  U          | now
++++++ |  T     A   U  PB      | /
+  +++ |          *            | *
+  +++ |  TK    A   U  PB      | dawn
+  +++ |          *            | *
+ ++++ |  TK     O  U  PB      | down
++++++ |   K WH     U R        | your
+ ++++ |  TKPW                 | go
++++++ |  T        E     L     | tell
++++++ |    P H AO E   PB      | mean
++++++ |  T   HRA   U R        | /
+   ++ |          *            | *
+   ++ |  T   HRA  EU R        | /
+  +++ |          *            | *
+ ++++ |  T   H A  EU R        | their
++++++ | S         E F   L     | self
++++++ |      H  O  U       S  | house
+  +++ |    PW                 | about
++++++ |      H    EU  P L     | him
+  +++ |     W  A  E           | weigh
+    + |     W  A  E           | weigh
+      |     W  A  E           | weigh
+      |     W  A  E           | weigh
+      |     W  A  E           | weigh
+    + |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
+ ++++ |     W  AO E           | we
+ ++++ |        A  EU R        | air
++++++ |     W     E     L     | well
++++++ |  T P H A  EU  P L     | name
++++++ |   K        U        D | could
++++++ |        A  EU  PB      | /
+  +++ |          *            | *
++++++ |        A   U  PB      | on
++++++ |  TK       EUFR        | differ
+ ++++ |     WH A              | what
+ ++++ | S KP                  | and
+ ++++ |  T  W   O             | two
+  +++ |          *E  R    T   | earth
++++++ |       R O  U  PB    D | round
++++++ |   K  H A  EU  PB G    | change
++++++ |     W RAO EU      T   | write
++++++ |     WH  O             | who
++++++ | S    H  O E           | show
++++++ |    P H  O   F     T   | /
+  +++ |          *            | *
+  +++ |    P H  O E F     T   | most
+ ++++ |     W        R        | where
+  +++ |          *            | *
+    + |     W R               | were
+  +++ |    P                  | people
+   ++ |   K                   | can
++++++ |  T P    O    RP L     | form
+  +++ |    P H    EU          | my
+   ++ |          *            | *
+    + |  T   H    EU          | think
++++++ | S    H AO E           | she
++++++ |    P H  O E  R        | mother
++++++ | S K W R    UF     T   | just
++++++ |    P       U      T   | put  2>STWRUFPS STKPWHRUFPSZ STWRUFPSZ
+ ++++ |    PW         PB      | been
++++++ | S  P      E     L     | spell
++++++ |    P H A  EU        D | maid
+  +++ |          *            | *
++++++ |    P H A  E         D | made
++++++ |         O  U      T   | {out^}
++++++ |    P HRA  EU          | play
++++++ |  T   H    EU  PB G    | thing
++++++ |   K    A   U      T   | caught
+   ++ |          *            | *
+    + |   K    A   U    L T   | /
+   ++ |          * U    L     | you'll
+      |   K        U    L     | cull
+      |   K    A   U          | /
+    + |          *            | *
+      |          *            | *
+      |          *            | *
+      |          *            | *
+    + |   K    A   U    L     | call
++++++ |      H    E  R        | her
++++++ |      H A           S  | has
+   ++ |      HR               | will  2>STKPWHR-FRBGS
++++++ |     W     E   PB  T   | went
++++++ | S       O  U  PB    D | sound
+  +++ |  T P                  | if
++++++ |  T     AO             | too
++++++ |  T   HRAO E           | three
+ ++++ |  T   HR    U          | through
++++++ | S       O     P L     | some
++++++ |      HR   EUF         | live
+ ++++ |         O E  R        | other
++++++ |        A       B GT   | act
++++++ |  TKPW     EUF         | give
+   ++ |           EU          | I
++++++ | S      A  EU          | say  2>SWR-BS
++++++ |  T P H  O  U          | now
++++++ |   K     O  U  PB      | /
+  +++ |          *            | *
+    + |   K     O  U  PB      | /
+  +++ |          *            | *
+    + |  TK     O  U  PB      | down
++++++ |   K WH     U R        | your
+   ++ |  TKPW                 | go
++++++ |   K    A   U       S  | cause
+  +++ |       R               | are
+ ++++ |  T   H                | this
++++++ |  T   HR    U          | through
++++++ |    P H A  E         D | made
++++++ | S         E F   L     | self
++++++ |      H    E   P       | help
++++++ |   K  H A  EU  PB G    | change
++++++ |  T     A  EU   B G    | take
++++++ |  TK       EUFR        | differ
++++++ |  T     AO EU  P L     | time
++++++ |    P H A  EU   B G    | make
++++++ |    P H AO E           | me
++++++ |      HR O E           | low
++++++ | S    H  O E           | show
++++++ |      H  O  U       S  | house
++++++ |      HR   EU    L     | little
++++++ |     W   O    R      D | word
+ ++++ |        A   U R        | or
+   ++ | S                     | is
++++++ |  TK    A  EU          | day
+  +++ |        A  EU          | a
++++++ |     W R               | were
+ ++++ |  T P H     U          | new
++++++ |  T   HRA  EU R        | /
+  +++ |          *            | *
++++++ |  T   H A  EU R        | their
++++++ |    P       U      T   | put
++++++ |           E FR        | every
++++++ |     W  AO E           | we
++++++ | S          UF P       | such
+ ++++ |        A    F         | after
++++++ |  T P H AO E  R        | near
++++++ |        A   U  PB  T   | aunt
+  +++ |          *            | *
++++++ |     W  A   U  PB  T   | want
+    + |     W  A   U  PB  T   | want
+   ++ |          *            | *
++++++ |      HRAO EU      T   | light
++++++ |    PW  A       B G    | back
++++++ |   K       EU  PB    D | kind
+ ++++ |  T P H    EU          | any
++++++ |     WH    E   PB      | when
++++++ |  T   H A      PB      | than
++++++ |  T   H    E   PB      | then
++++++ |      H AO EU          | high
++++++ |    P H  O E F     T   | most
++++++ |    P    O    R    T   | port
++++++ |    P H AO EU          | my
++++++ |  T P    O    R        | {for^}
++++++ |     W      U  PB      | one
+  +++ |   K                   | can
++++++ | S         E       T   | set  2>STKPWHRABLS STWRABLS
++++++ |   K WH AO E  R        | year
++++++ |   K        U      T   | cut
+    + |   K      * U        D | cud
+   ++ |          *            | *
+    + |          *            | *
+      |   K        U        D | could
++++++ |         O E  R        | other
++++++ |    PW   O EU          | boy
++++++ |            U  P       | up
+ ++++ | S      A  EU          | say
++++++ |    P H A *E   PB      | many
++++++ |  T P H AO E         D | need
++++++ |  T   HRAO E           | three
++++++ |        A          T   | at
++++++ |       RAO EU      T   | right
++++++ |                     D | {^ed}
++++++ |           E   PB    D | end
+    + |          *            | *
+      |          *            | *
+      |           E   PB    D | end
++++++ | S      AO EU        D | side
++++++ |   K    A   U       S  | cause
++++++ |       R               | are
+   ++ |  T   H                | this
++++++ |  T   HR    U          | through
++++++ |    P H A  E         D | made
++++++ | S         E F   L     | self
+ ++++ |      H    E   P       | help
++++++ |   K  H A  EU  PB G    | change
++++++ |  T     A  EU   B G    | take
++++++ |  TK       EUFR        | differ
++++++ |  T     AO EU  P L     | time
++++++ |    P H A  EU   B G    | make
+ ++++ |    P H AO E           | me
+ ++++ |      HR O E           | low
++++++ | S    H  O E           | show
++++++ |      H  O  U       S  | house
++++++ |      HR   EU     G    | lig
+   ++ |          *            | *
+   ++ |      HR   EU    L     | little
++++++ |     W   O    R      D | word
++++++ |        A   U R        | or
+  +++ | S                     | is
++++++ |  TK    A  EU          | day
+  +++ |        A  EU          | a
++++++ |     W R               | were
+  +++ |  T P H     U          | new
++++++ |  T   HRA  EU R        | /
+  +++ |          *            | *
++++++ |  T   H A  EU R        | their
++++++ |    P       U      T   | put
++++++ |           E FR        | every
++++++ |     W  AO E           | we
++++++ | S          UF P       | such
+  +++ |        A    F         | after
++++++ |  T P H AO E  R        | near
++++++ |     W  A   U  PB    D | wand
+  +++ |          *            | *
++++++ |     W  A   U  PB    D | wand
+   ++ |          *            | *
+    + |     W  A   U  PB  T   | want
++++++ |      HRAO EU      T   | light
++++++ |        A              | {a^}
+  +++ |          *            | *
+    + |    PW  A       B G    | back
++++++ |   K    AO EU  PB    D | kind
++++++ |# T P H    EU          | /
+   ++ |          *            | *
+    + |  T P H    EU          | any
++++++ |     WH    E   PB      | when
++++++ |  T   H A      PB      | than
++++++ |  T   H    E   PB      | then
+ ++++ |      H AO EU          | high
++++++ |    P H  O E F     T   | most
++++++ |    P    O    R    T   | port
++++++ |    P H AO EU          | my
+ ++++ |  T P         R        | for
++++++ |     W      U  PB      | one
+   ++ |   K                   | can
++++++ | S         E       T   | set  2>STKPWHRABLS STWRABLS
++++++ |   K WH AO E  R        | year
++++++ |   K        U        D | could
++++++ |         O E  R        | other
++++++ |    PW   O EU          | boy
+ ++++ |            U  P       | up
+ ++++ | S      A  EU          | say
++++++ |    P H  O*E   PB      | mown
+  +++ |          *            | *
++++++ |    P H A *E   PB      | many
++++++ |  T P H AO E         D | need
+ ++++ |  T   HRAO E           | three
+ ++++ |        A          T   | at
++++++ |       RAO EU      T   | right
++++++ |           E   PB    D | end
++++++ | S      AO EU        D | side
++++++ |      H A      PB    D | hand
+  +++ |   K WH                | why
+ ++++ |  T P H  O  U          | now
+  +++ |      H AO EU          | high
++++++ |      HRA      PB    D | land
++++++ |    P H  O E F     T   | most
++++++ |    PW     EU    L   D | build
+   ++ |  T   H                | this
+  +++ |  T P H     U          | new
++++++ |        AO  U       S  | use
++++++ |    P   A  EU  PB    D | pain {^ed}
+  +++ |          *            | *
++++++ |    P H  O EU  PB    D | million {^ed}
+  +++ |          *            | *
++++++ |    P    O E   PB    D | /
+  +++ |          *            | *
++++++ |    P    O EU  PB    D | /
+   ++ |          *            | *
+   ++ |    P    O EU  PB    D | /
+   ++ |          *            | *
++++++ |    P    O EU  PB    D | /
+   ++ |          *            | *
+   ++ |    P   AO EU  PB  T   | pint
+  +++ |          *            | *
+    + |    P   AO EU  PB  T   | pint
+  +++ |          *            | *
+    + |    P   AO EU  PB  T   | pint
+   ++ |          *            | *
+    + |    P   AO EU  PB  T   | pint
++++++ |    P    O EU  PB  T   | point
+   ++ |          *            | *
+      |          *            | *
+    + |    P    O EU  PB  T   | point
++++++ |    P H AO     PB      | moon
+   ++ |          *            | *
+    + |    P H AO E   PB      | mean
++++++ |    PW      U      T   | but
+  +++ |  T                    | it  2>SPWH* SPWH*D
++++++ |  T   H A      PB      | than
++++++ |      H  O E   P L     | home
++++++ |   K     O     P L     | come
++++++ |  T P H A  EU  P L     | name
++++++ |  T P      E FR    T   | /
+   ++ |          *            | *
+   ++ |  T P      EUFR    T   | first
++++++ |  T   H    EU  PB G    | thing
+ ++++ | S       O             | so
+   ++ |           EU          | I
++++++ |    P H     UF P       | much
+ ++++ |    P H AO E           | me
+ ++++ |        A   UF         | off
+  +++ |          *            | *
+ ++++ |             F         | of
+   ++ | S     R               | have
+ ++++ |  T        E     L     | tell
++++++ |           E   PB    D | end
++++++ |      HRAO      B G    | look
++++++ |        A            D | add
++++++ |         O E   PBL     | only
++++++ |      HR   EUF         | live
++++++ |      HR            S  | also
++++++ |    P H  O E F         | movie
+  +++ |          *            | *
++++++ |    P H AO  UF         | move
++++++ |        A   U  PB      | on
++++++ |    P H A      PB      | man
+   ++ |  T P H                | in
++++++ |      HR   EU    L     | little
++++++ |      HRAO EU  PB      | line
++++++ |           E           | {e^}
+ ++++ |          *            | *
+    + |  TKPW     E   PB      | again
++++++ |     W   O    R B G    | work
++++++ |     W  A           S  | was
+ ++++ |      H AO E           | he
+ ++++ |        A   U R        | or
++++++ |        AO  UFR        | /
+   ++ |          *            | *
++++++ |        A   UFR        | over
++++++ | S    H AO E           | she
++++++ |     W      U      T   | /
+   ++ |          * U          | {>}{&u}
+      |     W      U        D | would
+    + |          *            | *
+      |          *            | *
+      |          *            | *
+    + |     W               D | with {^ed}
+      |            U        D | you'd
+   ++ |          *            | *
+      |          *            | *
+    + |            U        D | you'd
+   ++ |          *            | *
+      |     W      U        D | would  2>SKWHR-RBGSZ SKWHRAOD
++++++ |     W   O    R      D | word
+ ++++ |            U  P       | up
++++++ |  T         U RPB      | turn
++++++ |   K    A   U        D | /
+  +++ |          *            | *
++++++ |   K    A   U       S  | cause
++++++ |    P H  O E  R        | mother
++++++ | S     R   E           | very
++++++ | ST        E   PB   S  | sentence
++++++ |     W   O    R  L   D | world
++++++ |     W     E     L     | well
++++++ |    P H  O    R        | more
++++++ |     W     EU          | which
+ ++++ |         O    R        | {or^}
+  +++ |          *            | *
+ ++++ |         O E  R        | other
++++++ |     W                 | with
+   ++ |          *            | *
+    + |     WH                | when
+    + |          *            | *
+  +++ |     WH A              | what
++++++ |      H A      PB    D | hand
+  +++ |   K WH                | why
+  +++ |  T P H  O  U          | now
++++++ |      H AO EU          | high
++++++ |      HRA      PB    D | land
++++++ |    P H  O E F     T   | most
++++++ |    PW     EU    L     | bill
+   ++ |          *            | *
+      |    PW     EU    L   D | build
+ ++++ |  T   H                | this
+ ++++ |  T P H     U          | new
++++++ |        AO  U       S  | use
++++++ |    P    O EU  PB    D | /
+  +++ |          *            | *
+  +++ |    P    O EU  PB  T   | point
++++++ |    P H AO E   PB      | mean
++++++ |    PW      U      T   | but
+ ++++ |  T                    | it  2>SPWH* SPWH*D
++++++ |  T   H A      PB      | than
++++++ |      H  O E   P L     | home
++++++ |   K     O     P L     | come
++++++ |  T P H A  EU  P L     | name
++++++ |  T P      EUFR    T   | first
++++++ |  T   H    EU  PB G    | thing
++++++ | S       O             | so
+  +++ |           EU          | I
++++++ |    P H  O  UF P       | /
+   ++ |          *            | *
+    + |    P H     UF P       | much
++++++ |    P H AO E           | me
+   ++ |             F         | of
+ ++++ | S     R               | have
++++++ |  T        E     L     | tell
++++++ |           E   PB    D | end
++++++ |      HRAO      B G    | look
++++++ |        A            D | add
++++++ |         O E   PB G    | owning
+   ++ |          *            | *
+ ++++ |         O E   PBL     | only
++++++ |      HR   EUF         | live
+ ++++ | S                  S  | is {^s}
+   ++ |          *            | *
+   ++ |      HR            S  | also
++++++ |    P H AO  UF         | move
++++++ |        A   U  PB      | on
++++++ |    P H A      PB      | man
+   ++ |  T P H                | in
++++++ |      HR   EU    L     | little
++++++ |      HRAO EU  PB      | line
++++++ |  TKPW     E   PB      | again
++++++ |     W   O    R B G    | work
++++++ |     W  A           S  | was
+  +++ |      H AO E           | he
+ ++++ |        A   U R        | or
++++++ |         O E FR        | {over^}
++++++ | S    H AO E           | she
++++++ |     W      U        D | would  2>SKWHR-RBGSZ SKWHRAOD
++++++ |     W   O    R      D | word
++++++ |           E   P       | {epi^}
+   ++ |          *            | *
+  +++ |            U  P       | up
++++++ |  T                    | it
+  +++ |          *            | *
++++++ |  T         U RPB      | turn
++++++ |   K    A   U       S  | cause
++++++ |    P H  O E  R        | mother
++++++ | S     R   E           | very
++++++ | ST        E   PB   S  | sentence
++++++ |     W   O    R  L   D | world
++++++ |     W     E     L     | well
++++++ |    P H  O E  R        | mother
+   ++ |          *            | *
+   ++ |    P H  O    R        | more
++++++ |     W     EU          | which
++++++ |         O E  R        | other
++++++ |     WH A              | what
++++++ |                     D | {^ed}
+      |   K W         P L T DZ| {^}{#super(q)}{^}
++++++ |  T      O       L     | toll
+ ++++ |          *            | *
+    + |  T      O E     L     | toll
+   ++ |          *            | *
+      |  T        E     L     | tell
++++++ |          *            | *
+   ++ |  T       *E     L     | {tele^}
++++++ |       R      R        | {^~|\n^}
++++++ |  TK                   | did
+      |            U          | you  2>KPWR-UD TKU
++++++ |# T P H      F   L T   | /
++++++ |          *            | *
+   ++ |  T P H      F   L     | envelope
+   ++ |          *            | *
++++++ |           EU  PB  T   | int
+ ++++ |          *            | *
++++++ |           EU  PB  TS  | int {^s}
+   ++ |          *            | *
++++++ | ST P H A        L     | signal
+   ++ |          *            | *
++++++ |    P H A        L     | {mal^}
+    + |          *            | *
++++++ |  T P H      F   L     | envelope
+  +++ |          *            | *
++++++ | ST P H A   U    L     | install
++++++ |                   T   | the
++++++ |  T P H     U          | new
++++++ |            U  P       | up
++++++ |  TK    A  EU      T   | date
+ ++++ |          *            | *
+   ++ |  TK    A *EU      T   | *update
++++++ |       R      R        | {^~|\n^}
++++++ |        A   U  PB      | on
++++++ |         O EU       S  | {iso^}
+ ++++ |          *            | *
++++++ |          *EU          | {>}{&i}
+ ++++ |         O*            | {>}{&o}
++++++ | S        *            | {>}{&s}
+  +++ |       R  *   R        | {^\n}{^}{-|}
++++++ |#     H    E           | /
+ ++++ |          *            | *
+   ++ |  T   H    E           | they
++++++ |      HR O*E  R    T   | /
+  +++ |          *            | *
++++++ |      HR O*E  R      D | {:retro_case:lower_first_char}  2>TWH-D THE TWH-
++++++ |  T P      EU   B G  D | /
+   ++ |          *            | *
+    + |  T P      EU   B G  D | /
+   ++ |          *            | *
++++++ |  T P      EU   B G S  | fix
+ ++++ |                     D | *fixed
++++++ |                 L     | {^le}
+   ++ |          *            | *
+      |                   T   | the
++++++ | S         EU R        | sir
++++++ |          *EU          | {>}{&i}
+  +++ |          *            | *
+ ++++ |          *EU          | {>}{&i}
+   ++ |          *            | *
+ ++++ |          *            | *
++++++ | S        *EU R        | /
+   ++ |          *            | *
+   ++ | S        *EU          | si
+  +++ |          *            | *
+   ++ | S        *EU R        | /
+   ++ |          *            | *
+ ++++ | S         EU R        | sir
++++++ | S  P                  | {^^}
+    + |          *EU          | {>}{&i}  2>SKWREU
+ ++++ |       R      R        | {^~|\n^}
++++++ |  T                    | it
++++++ | S                     | is  2>KPWH-B T-S KPWHE
++++++ |  T P H  O         T   | not  2>STPHOT
+ ++++ |  T   H A              | that
++++++ |  TK     O     P L     | dom
++++++ |          *            | *
+    + |  TK        U  P L     | dumb
++++++ |  T P H  O  U          | now
+ ++++ |       R      R        | {^~|\n^}
++++++ |      HRAO EU   B G    | like
++++++ |                 L     | {^le}
+  +++ |  T      O       L T   | /
+   ++ |          *            | *
+   ++ |  T      O         T   | to the
+    + |          *            | *
+      |          *            | *
+    + |  T      O         T   | to the
++++++ |          *            | *
++++++ |  T      O EU    L T   | toilet
+  +++ |          *            | *
+      |  T      O EU    L T   | toilet
+    + |          *            | *
++++++ |  T   HR O E     L T   | totally
++++++ |          *            | *
+      |          *            | *
+      |          *            | *
++++++ |   K WH A  E           | yea
++++++ |    PW      U      T   | but
++++++ |           EU    L  S  | ill {^s}
++++++ |          *            | *
+    + |           EU      T   | it  2>SPWH*D SPWH*
+    + |           EU      TS  | its
+ ++++ |          *            | *
+      |                    S  | {^s}  2>EUTS
++++++ |        A  EU          | a
++++++ | S    HR       PBL     | /
+   ++ |          *            | *
+    + | S    HR       PBL     | /
+    + |          *            | *
++++++ |          *            | *
++++++ | S     RA  EU   BL     | available
++++++ |  T P H                | in  2>STPHRAEUBL
++++++ |          *E           | {>}{&e}
+    + |  T P H   *            | {>}{&n}
+  +++ |  TKPW    *            | {>}{&g}
+  +++ |      HR  *            | {>}{&l}
+   ++ |          *EU          | {>}{&i}
+  +++ | S        *            | {>}{&s}
+      | S    H                | {#}
+      |      H   *            | {>}{&h}  >TKPWHREURB EPB/TKPWHREURB EPBG/HREURB EPBG/TKPWHREURB
++++++ |           EU          | I
++++++ |          *            | *
+    + |          *EU          | {>}{&i}
+ ++++ |          *            | *
++++++ | S             P       | {^ ^}
+  +++ |          *EU          | {>}{&i}
+  +++ |  T   H    EU          | think
+ ++++ |       R  *   R        | {^\n}{^}{-|}
++++++ |    PW      U      T   | but
++++++ |          *            | *
+    + |    PW    * U      T   | butt
+  +++ |          *            | *
+    + |    PW    * U      T   | butt
+   ++ |          *            | *
+ ++++ |    PW      U      T   | but
++++++ |      HR O*E  R      D | {:retro_case:lower_first_char}  2>PWUT
++++++ |          *            | *
++++++ |          *            | *
++++++ |     W     E     L     | well
+ ++++ |          *            | *
+   ++ |     W     E     L     | well
++++++ |      HR O*E  R      D | {:retro_case:lower_first_char}  2>WEL
++++++ |       R      R        | {^~|\n^}
++++++ |  T P H  O             | no
+    + |  T P H  O  U          | now
+   ++ |          *            | *
+    + |  T P H     U          | new
++++++ | S        *            | {>}{&s}
+    + |          *EU          | {>}{&i}  >S*EU
+ ++++ |       R  *EU          | /
+  +++ |          *            | *
+   ++ |       R  *            | {>}{&r}
+   ++ |          *EU          | {>}{&i}
+ ++++ |  T P H                | in
++++++ |        A *            | {>}{&a}
+   ++ |       R  *            | {>}{&r}
++++++ |    P H   *            | {>}{&m}
+   ++ |          *E           | {>}{&e}
+    + |  T P H   *            | {>}{&n}
++++++ |          *EU          | {>}{&i}
+      |        A *            | {>}{&a}
++++++ |      HR            S  | also
++++++ |    PW      U      T   | but
+  +++ |          *EU          | {>}{&i}
+   ++ | S     R               | have
+  +++ |  T                    | it
+ ++++ |       R      R        | {^~|\n^}
++++++ |        AO E F PB      | even
++++++ |         O     PB      | {on^}
+ ++++ |          *            | *
++++++ |        AO  U  PB      | {uni^}
+  +++ |          *            | *
+    + |         O  U  PB      | /
+  +++ |          *            | *
+ ++++ |        A   U  PB      | on
++++++ |    P H    EU          | my
++++++ |        A *            | {>}{&a}
+    + |       R  *            | {>}{&r}
+    + |    P H   *            | {>}{&m}
+ ++++ |          *E           | {>}{&e}
+    + |  T P H   *            | {>}{&n}
++++++ |          *EU          | {>}{&i}
+   ++ |        A *            | {>}{&a}
+    + |  T P H   *            | {>}{&n}
++++++ |   K    A   U      T   | caught
+  +++ |          *            | *
++++++ |   K    A   U  PB  T   | content
+  +++ |          *            | *
+    + |   K    A   U  PB  T   | content
+    + |   K      *            | {>}{&k}
+  +++ |          *            | *
+      |          *            | *
++++++ |   K     O  U  PB  T   | count
+   ++ |          *            | *
++++++ |        A       B G    | ack
++++++ |   K    AO  U  PB  T   | /
+  +++ |          *            | *
+    + |   K    AO  U  PB  T   | /
+   ++ |          *            | *
+    + |   K    AO  U  PB  T   | /
+   ++ |          *            | *
+    + |   K    A  EU  PB  T   | /
+   ++ |          *            | *
+   ++ |   K    A   U  PB  T   | content
+   ++ |          *            | *
+    + |   K     O* U  PB  T   | /
+  +++ |          *            | *
+   ++ |   K     O*E   PB  T   | /
+    + |          *            | *
+    + |          *            | *
++++++ |   K               T   | account
+  +++ |       R      R        | {^~|\n^}
++++++ | S KPW R    UF     T   | /
+ ++++ |          *            | *
++++++ | S K W R    UF     T   | just
++++++ |          *            | *
++++++ |          *EU          | {>}{&i}
+    + |  T   H    EU          | think
++++++ |            U          | you
+   ++ | S K W R    UF     T   | just  2>KPWRUF KPWR-PBLGSZ KPWRUFD KPWR-PBLGTSDZ
++++++ | S     R               | have  2>STWRUFT 3>KPWRUFT
+    + |  T                    | it
+   ++ |          *            | *
+      |             F         | of
+    + |          *            | *
+      |                 L     | {^le}
+   ++ |          *            | *
+      |                   T   | the  2>SR-T
+   ++ |          *            | *
+    + |  T      O             | to  2>STRO STWR-TS 3>STWRUFTS 4>KPWRUFTS
++++++ | S     R   E       T   | vet
+  +++ |          *            | *
++++++ | S         E       T   | set  2>STWRUBLSZ STKPWHRUBLS STKPWHRUBLSZ STWRUBLS
++++++ |  T                    | it
++++++ | S             P L     | system
++++++ |      HRA      PB G    | lang
++++++ |  TKPW     E           | /
+   ++ |          *            | *
++++++ |          *            | *
++++++ |      HRA      PBLG    | language
++++++ |  T      O             | to
++++++ |  TKPW R               | /
++++++ |  TKPWHR   EU R B      | english
+  +++ |          *            | *
+      |          *            | *
+ ++++ |  TKPWHR   EU R B      | english
++++++ |       R      R        | {^~|\n^}
++++++ |# T P H        P       | {#Up}{^}
++++++ |# T P H       R        | {#Left}{^}
+    + |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+    + |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+    + |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+    + |# T P H       R        | {#Left}{^}
++++++ |    PW       F P       | {#BackSpace}{^}
+  +++ |    PW       F P       | {#BackSpace}{^}
+    + |                   T   | the
++++++ |       R      R        | {^~|\n^}
++++++ |    P H    EU          | my
++++++ |  T P   A    F         | /
+   ++ |          *            | *
++++++ |  T P   A  EUF         | fave
+   ++ |          *            | *
+ ++++ |  T P   A  EUF         | fave
+   ++ |          *            | *
+   ++ |  T P   A  EUF         | fave
+    + |          *            | *
++++++ |  T P   A  EUFR    T   | favorite
++++++ |  T P   AO E FRPB      | /
+   ++ |          *            | *
+    + |  T P   AO E FRP       | /
+  +++ |          *            | *
++++++ |  T P   AO E FRPB      | /
+   ++ |          *            | *
+   ++ |  T P   AO   F P       | /
+   ++ |          *            | *
+   ++ |  T P   AO   F P       | /
+   ++ |          *            | *
+   ++ |  T P   AO    R        | /
+   ++ |          *            | *
+    + |  T P   AO    R        | /
+   ++ |          *            | *
+ ++++ |  T P   AO E  R        | fear
+   ++ |          *            | *
++++++ |  T P   AO E F P       | feature
++++++ | S                     | is
++++++ |  T   H A              | that  2>STHA
+ ++++ |  T P H  O  U          | now
++++++ |          *EU          | {>}{&i}
+    + |   K                   | can
++++++ |        A   U       S  | awe {^s}
+ ++++ |          *            | *
++++++ |        AO  U       S  | use  2>STKPWHRAZ STWRAZ
++++++ |    P H    EU          | my
++++++ |    P H A       B G    | mac
++++++ | S     R   EU          | have I
+ ++++ |          *            | *
++++++ | S     R  *            | {>}{&v}
+   ++ |          *EU          | {>}{&i}
+   ++ |        A *            | {>}{&a}  >SRAOEU/KWRA SREU/KWRA
++++++ |           EU  P     D | /
+  +++ |          *            | *
++++++ |        AO EU  P     D | iPad
++++++ | S         E   PB   S  | sense
+   ++ |          *            | *
+    + | S         E   PB   S  | sense
+   ++ |          *            | *
++++++ |  T P   A    F P       | /
+   ++ |          *            | *
+   ++ |  T P   A    F P       | /
+    + |          *            | *
++++++ |  T P    O  UF P       | /
+   ++ |          *            | *
+    + |  T P    O  UF P       | /
+    + |          *            | *
++++++ |  T      O  UF P       | /
+   ++ |          *            | *
+    + |  T      O  UF P       | /
+    + |          *            | *
+      |  T      O  UF P       | /
+   ++ |          *            | *
+      |  T      O  U R B      | /
+    + |          *            | *
++++++ |  T     A    F P       | attach
+   ++ |          *            | *
+  +++ |  T      O E F P       | /
+    + |          *            | *
+   ++ |  T      O  UF P       | /
+   ++ |          *            | *
+   ++ |  T     AO  UF P       | /
+   ++ |          *            | *
++++++ |  T         UF P       | touch
++++++ | S K   RAO E   PB      | screen
+ ++++ |       R      R        | {^~|\n^}
++++++ |    P  RAO E F   L  S  | previously {^s}
++++++ |          *            | *
+   ++ |    P   AO E F   L     | /
+   ++ |          *            | *
+   ++ |    P   AO E        S  | piece
+   ++ |          *            | *
+    + |    P   AO E F      S  | peeve {^s}
+   ++ |          *            | *
++++++ |    P   AO E F      S  | peeve {^s}
+    + |          *            | *
++++++ |    P  RAO E F         | previous
++++++ |                 L     | {^le}
++++++ |          *            | *
++++++ |   K WH    EU          | /
+   ++ |          *            | *
++++++ |      HR   EU          | {^ly}  2>PRAOEFL
++++++ |  T                    | it
++++++ |     W  A           S  | was  2>KPWHED KPWH-BD
++++++ |         O E   PBL     | only
++++++ | S  P           BL     | /
+   ++ |          *            | *
+    + | S  P           BL     | /
+    + |          *            | *
+   ++ | S  P    O      BL     | /
+   ++ |          *            | *
+      | S  P      E    BL     | /
+   ++ |          *            | *
++++++ | S  P    O E    BL     | /
+   ++ |          *            | *
+      | S  P    O EU   BL     | /
+    + |          *            | *
++++++ |    P    O      BL  S  | possible {^s}
++++++ |          *            | *
+    + |    P    O      BL     | possible
++++++ | S     R   EU          | have I
++++++ |   K WH A              | ya
+  +++ |          *            | *
+      |          *            | *
++++++ | S     R   EU          | have I
++++++ |   K W RA              | *via
++++++ |        A      P L     | am
+  +++ |          *            | *
++++++ |        A *    P L     | amp
+  +++ |          *            | *
++++++ |        A *E   P L     | /
+   ++ |          *            | *
++++++ |        A  E   P L     | apple
++++++ |    P      E   PB   S  | pence
+  +++ |          *            | *
++++++ |    P      E   PBL  S  | potential {^s}
+  +++ |          *            | *
+  +++ |    P      E   PBL     | potential
+   ++ |          *            | *
++++++ |    P      E   PB      | pen
+   ++ | S         EU    L     | *pencil
+ ++++ |       R      R        | {^~|\n^}
++++++ |# T P H                | In
+   ++ |     W                 | with
+      |     W                 | with
++++++ |# T P H           G    | {#Right}{^}
+   ++ |# T P H           G    | {#Right}{^}
+    + |# T P H           G    | {#Right}{^}
+    + |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+   ++ |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H           G    | {#Right}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R        | {#Left}{^}
+      |# T P H       R B      | {#Control_L(Left)}{^}
+      |# T P H       R B      | {#Control_L(Left)}{^}
+      |# T P H       R B      | {#Control_L(Left)}{^}
+      |# T P H           G    | {#Right}{^}
+    + |# T P H         B G    | {#Control_L(Right)}{^}
+      |# T P H         B G    | {#Control_L(Right)}{^}
+      |# T P H         B G    | {#Control_L(Right)}{^}
++++++ |# T P H       R B      | {#Control_L(Left)}{^}
++++++ |# T P H       R B      | {#Control_L(Left)}{^}
+   ++ |  T P H       R B      | /
++++++ |  T P   AO EU  PB    D | find
++++++ |       R      R        | {^~|\n^}
++++++ |  TKPW        RP L T DZ| {^}{#super(shift(g))}{^}
++++++ |       R      R        | {^~|\n^}
++++++ |               P L T DZ| {^}{#super()}{^}
+   ++ |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+      |               P L T DZ| {^}{#super()}{^}
+    + |     W  AO     P L T DZ| {^}{#super(2)}{^}
++++++ |# T P H         B      | {#Down}{^}
++++++ |   KPW RA      P L T DZ| you could might be {^s}
+ ++++ |   KPW R O     P L T DZ| you should might be {^s}
++++++ |   KPW R O     P L T DZ| you should might be {^s}
++++++ |   KPW RAO     P L T DZ| {^}{#super(7)}{^}
++++++ |   KPW RA      P L T DZ| you could might be {^s}
++++++ |   KPW R       P L T DZ| you might be {^s}
++++++ |   KPW R       P L T DZ| you might be {^s}
+  +++ |   KPW R       P L T DZ| you might be {^s}
+      |   KPW R       P L T DZ| you might be {^s}
+      |   KPW R       P L T DZ| you might be {^s}
+      |   KPW R       P L T DZ| you might be {^s}
+      |   KPW R       P L T DZ| you might be {^s}
+      |   KPW R       P L T DZ| you might be {^s}
+      |   KPW R       P L T DZ| you might be {^s}
+      |   KPW R       P L T DZ| you might be {^s}
+      |   KPW R       P L T DZ| you might be {^s}
+      |   KPW RA      P L T DZ| you could might be {^s}
++++++ |   KPW R O     P L T DZ| you should might be {^s}
++++++ |   KPW RAO     P L T DZ| {^}{#super(7)}{^}
++++++ |   KPW RAO*      L T DZ| you wouldn't feel {^s}
++++++ |   KPW RAO*      L T DZ| you wouldn't feel {^s}
+ ++++ |   KPW RAO*      L T DZ| you wouldn't feel {^s}
+  +++ |   KPW RAO*      L T DZ| you wouldn't feel {^s}
++++++ |   KPW RAO*      L T DZ| you wouldn't feel {^s}
+ ++++ |   KPW RAO*      L T DZ| you wouldn't feel {^s}
+   ++ |   KPW R O*      L T DZ| you shouldn't feel {^s}
+    + |   KPW RA *      L T DZ| you couldn't feel {^s}
+   ++ |   KPW RAO*      L T DZ| you wouldn't feel {^s}
+    + |   KPW RAO*      L T DZ| you wouldn't feel {^s}
++++++ |# T P H           G    | {#Right}{^}
+ ++++ |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+      |# T P H         B      | {#Down}{^}
+   ++ |# T P H         B      | {#Down}{^}
+    + |# T P H         B      | {#Down}{^}
++++++ |       R      R        | {^~|\n^}
++++++ |           E F  B G    | {#Escape}{^}
++++++ |         O     P L T DZ| {^}{#super(o)}{^}
++++++ |  T P          P L T DZ| {^}{#super(f)}{^}
++++++ |       R       P L T DZ| {^}{#super(r)}{^}
++++++ |       R       P L T DZ| {^}{#super(r)}{^}
++++++ |       R       P L T DZ| {^}{#super(r)}{^}
+ ++++ |       R       P L T DZ| {^}{#super(r)}{^}
+   ++ |       R       P L T DZ| {^}{#super(r)}{^}
+    + |       R       P L T DZ| {^}{#super(r)}{^}
+    + |       R       P L T DZ| {^}{#super(r)}{^}
+      |       R       P L T DZ| {^}{#super(r)}{^}
+      |       R       P L T DZ| {^}{#super(r)}{^}
+      |       R       P L T DZ| {^}{#super(r)}{^}
+      |       R       P L T DZ| {^}{#super(r)}{^}
+      |       R       P L T DZ| {^}{#super(r)}{^}
+      |       R       P L T DZ| {^}{#super(r)}{^}
+    + |       R       P L T DZ| {^}{#super(r)}{^}
+    + |       R       P L T DZ| {^}{#super(r)}{^}
+      |       R       P L T DZ| {^}{#super(r)}{^}
++++++ |    PW       F P       | {#BackSpace}{^}
+   ++ |    PW       F P       | {#BackSpace}{^}
++++++ | STKPW         P L T DZ| {^}{#super(z)}{^}
++++++ |  T P          P L T D | /
++++++ | STKPW         P L T DZ| {^}{#super(z)}{^}
++++++ |  T P          P L T DZ| {^}{#super(f)}{^}
++++++ |       R       P L T DZ| {^}{#super(r)}{^}
++++++ |       R       P L T DZ| {^}{#super(r)}{^}
++++++ |       R       P L T DZ| {^}{#super(r)}{^}
++++++ |   KP H A      PB    D | command
++++++ |          *            | *
++++++ |         O     P  G S  | option
++++++ |       R      R        | {^~|\n^}
++++++ |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+   ++ |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+      |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+   ++ |       R      R        | {^~|\n^}
+    + |       R      R        | {^~|\n^}
+   ++ |       R      R        | {^~|\n^}
+  +++ |       R      R        | {^~|\n^}
++++++ | S             P L T DZ| {^}{#super(s)}{^}
++++++ |          *EU          | {>}{&i}  2>SKWREU
++++++ |       R      R        | {^~|\n^}
++++++ |   K   R             D | considered
+   ++ |          *            | *
+    + |   K   R  *          D | cd
++++++ |    P     *            | {>}{&p}
+    + |      HR  *            | {>}{&l}
++++++ |  T     A *    P       | tap
+   ++ |          *            | *
+    + |  T     A *     B      | {^}{#Tab}{^}
++++++ |       R      R        | {^~|\n^}
++++++ |  TKPW     EU      T   | git
+  +++ |        A            D | add
++++++ |  T P          P L     | {.}
+ ++++ |          *            | *
++++++ | S K WH A     R        | {} . {^}
+ ++++ |          *            | *
++++++ | S K WH       R        | {^} . {^}
++++++ |          *            | *
+ ++++ | S K WH A     R        | {} . {^}
++++++ |       R      R        | {^~|\n^}

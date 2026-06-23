@@ -22743,3 +22743,156 @@ Traceback (most recent call last):
   File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
   File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
 KeyError: 'Т-'
+2026-06-22 23:40:18,918 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:19,095 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:19,607 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:19,757 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:20,172 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:20,331 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:20,649 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:20,812 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:21,085 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:21,561 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:22,213 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:40:30,452 [MainThread] ERROR: Qt GUI error
+Traceback (most recent call last):
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 79, in data
+  File "/Users/runner/work/plover/plover/build/osxapp/Plover.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python3.13/site-packages/plover/gui_qt/paper_tape.py", line 65, in _paper_format
+KeyError: 'Т-'
+2026-06-22 23:41:12,251 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-22 23:47:23,091 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:02:39,886 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:34:06,648 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:35:05,649 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:36:05,599 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:36:11,345 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:36:49,411 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:36:49,422 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:36:49,460 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:37:09,484 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:37:22,077 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:37:26,548 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:37:28,070 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:37:47,827 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:38:50,307 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:39:45,213 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:39:52,895 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:40:35,650 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:40:37,305 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:40:37,308 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:40:47,065 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:41:25,662 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:41:26,870 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:41:26,873 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:41:26,877 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:41:48,709 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:41:49,669 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:41:49,672 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:41:49,676 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:42:34,999 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:42:36,845 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:45:07,672 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:45:11,216 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:47:48,704 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:48:06,510 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:48:35,340 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:48:42,074 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 00:48:50,606 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 19:06:39,590 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 19:06:58,364 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 19:08:57,161 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 19:09:30,363 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 19:40:17,323 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 19:40:42,127 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 19:41:54,579 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 19:42:43,210 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 19:44:25,581 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 19:45:14,456 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 19:55:37,372 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 19:56:11,722 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 19:59:39,305 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 20:00:24,487 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 20:07:20,117 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 20:08:20,580 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 20:09:09,505 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 20:09:13,281 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 20:09:29,600 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 20:09:59,098 [MainThread] INFO: Mac keyboard layout changed, updating
+2026-06-23 20:31:40,818 [Dummy-1] INFO: stopping `modal_update` extension
+2026-06-23 20:31:40,819 [Dummy-1] INFO: stopping `plover_auto_reconnect_machine` extension
+2026-06-23 20:31:40,819 [Dummy-1] INFO: plover-auto-reconnect-machine: stopping
+2026-06-23 20:31:40,819 [Dummy-1] INFO: stopping `plover_tapey_tape` extension
+2026-06-23 20:50:26,766 [MainThread] INFO: setting language to: en-US
+2026-06-23 20:50:28,587 [Dummy-1] INFO: set_stroke_filename(/Users/kei/Desktop/strokes.log)
+2026-06-23 20:50:28,588 [Dummy-1] INFO: enable_stroke_logging(True)
+2026-06-23 20:50:28,588 [Dummy-1] INFO: enable_translation_logging(True)
+2026-06-23 20:50:28,588 [Dummy-1] INFO: loading system: Lapwing
+2026-06-23 20:50:28,746 [Dummy-1] INFO: setting machine: Plover HID
+2026-06-23 20:50:28,758 [Dummy-1] INFO: starting `modal_update` extension
+2026-06-23 20:50:28,758 [Dummy-1] INFO: starting `plover_tapey_tape` extension
+2026-06-23 20:50:28,758 [Dummy-1] INFO: starting `plover_auto_reconnect_machine` extension
+2026-06-23 20:50:28,758 [Dummy-1] INFO: plover-auto-reconnect-machine: initializing
+2026-06-23 20:50:28,758 [Dummy-1] INFO: plover-auto-reconnect-machine: starting
+2026-06-23 20:50:28,759 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/user.json
+2026-06-23 20:50:28,759 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-23 20:50:28,759 [Thread-7 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/jeff-phrasing.py
+2026-06-23 20:50:28,759 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-23 20:50:28,760 [Thread-6 (load)] WARNING: dictionary `user.json` loaded with 1 invalid steno errors
+2026-06-23 20:50:28,762 [Thread-8 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/abby-left-hand-modifiers.py
+2026-06-23 20:50:28,763 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-23 20:50:28,763 [Thread-9 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-modifiers.py
+2026-06-23 20:50:28,763 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-23 20:50:28,763 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-movement.modal
+2026-06-23 20:50:28,764 [Thread-10 (load)] INFO: loading Python dictionary: /Users/kei/plover-config/plover/emily-symbols.py
+2026-06-23 20:50:28,764 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-commands.json
+2026-06-23 20:50:28,767 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-numbers.json
+2026-06-23 20:50:28,768 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-uk-additions.json
+2026-06-23 20:50:28,769 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-proper-nouns.json
+2026-06-23 20:50:28,783 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/lapwing-base.json
+2026-06-23 20:50:28,795 [Dummy-1] INFO: loading dictionary: /Users/kei/plover-config/plover/return-from-raw.json
+2026-06-23 20:50:29,222 [Dummy-1] INFO: loaded 12 dictionaries in 0.463s
+2026-06-23 20:50:29,222 [Thread-5 (run)] INFO: plover-auto-reconnect-machine: machine is connected
