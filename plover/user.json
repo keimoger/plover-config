@@ -1,8 +1,14 @@
 {
-"PWHR-FRPB": "{PLOVER:SWITCH_SYSTEM:Russian Trillo}",
+"ТПВК-СРТЛ": "{PLOVER:SWITCH_SYSTEM:Lapwing}",
 "SKR*RB": "{#command(shift(control(4)))}",
 "SKR-FRB": "{#command(shift(5))}",
 "SKR-RB": "{#command(shift(4))}",
 "TKPWEPBL": "gemini",
-"ТПВК-СРТЛ": "{PLOVER:SWITCH_SYSTEM:Lapwing}"
+"TKHR*": "{#command(backspace)}",
+"TP-PL": "{^}.",
+"TP-BG": "{^}!",
+"KW-PL": "{^}?",
+"PWHR-FRPB": "{PLOVER:SWITCH_SYSTEM:Russian Trillo}",
+"WA": "want",
+"WAD": "wanted"
 }
