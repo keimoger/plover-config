@@ -3,12 +3,18 @@
 "SKR*RB": "{#command(shift(control(4)))}",
 "SKR-FRB": "{#command(shift(5))}",
 "SKR-RB": "{#command(shift(4))}",
+"SKAORT": "scooter",
+"SWEUPB": "{#command(Tab)}",
 "TKPWEPBL": "gemini",
 "TKHR*": "{#command(backspace)}",
 "TP-PL": "{^}.",
 "TP-BG": "{^}!",
 "KW-PL": "{^}?",
+"KHR*EURP": "klipper",
 "PWHR-FRPB": "{PLOVER:SWITCH_SYSTEM:Russian Trillo}",
+"PHA*": "many",
+"PH*EUPBLG": "mij",
 "WA": "want",
-"WAD": "wanted"
+"WAD": "wanted",
+"HR-FR": "{#Shift(\n)}"
 }
