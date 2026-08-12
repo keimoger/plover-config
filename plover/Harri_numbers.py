@@ -101,7 +101,7 @@ trailing_zeroes = {
     ""  : "",
     "E" : "0",
     "U" : "00",
-    "EU": ",000"
+    "EU": "000"
 }
 
 def end_zeros(string):
