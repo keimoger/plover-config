@@ -12,11 +12,11 @@ LONGEST_KEY = 4
 starter_chord = {
 
    #Default numbers
-   "#"       : {"prefix" : " ",
+   "#S"       : {"prefix" : " ",
                 "suffix" : " "},
    
    #KWR for sticking stuff, so no spacing
-   "#KWR"    : {"prefix" : "{^",
+   "#"    : {"prefix" : "{^",
               "suffix"   : "}"},
 
     #KL for clock stuff
