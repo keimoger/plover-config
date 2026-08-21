@@ -1,2 +1,3 @@
 .DS_Store
 ./plover/.DS_Store
+./plover/__pycache__
