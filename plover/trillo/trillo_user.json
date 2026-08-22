@@ -1,3 +1,8 @@
 {
-    "ТПВК-СРТЛ": "{PLOVER:SWITCH_SYSTEM:Lapwing}"
+    "ТПВК-СРТЛ": "{PLOVER:SWITCH_SYSTEM:Lapwing}",
+    "ВК-СР": "{#Shift(Return)}",
+    "ФТ-ТВ": "{^}.",
+    "ФТ-ЛК": "{^}!",
+    "СП-ТВ": "{^}?",
+    "СП-ЛК": "{^},"
 }
