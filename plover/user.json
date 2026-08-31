@@ -20,5 +20,6 @@
 "WAD": "wanted",
 "HR-FR": "{#Shift(Return)}",
 "H-BGS": "hx",
+"RA*U": "{PLOVER:SOLO_DICT:+return-from-raw.json}",
 "AOEUBG": "iiko"
 }
