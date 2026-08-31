@@ -8,6 +8,7 @@
 "SRAOEPBG": "vegan",
 "TKPWEPBL": "gemini",
 "TKHR*": "{#command(backspace)}",
+"TPHEUBGS": "nix",
 "TP-PL": "{^}.",
 "TP-BG": "{^}!",
 "KW-PL": "{^}?",
@@ -19,5 +20,6 @@
 "WA": "want",
 "WAD": "wanted",
 "HR-FR": "{#Shift(Return)}",
+"H-BGS": "hx",
 "AOEUBG": "iiko"
 }
