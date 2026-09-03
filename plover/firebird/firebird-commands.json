@@ -1,24 +1,4 @@
 {
-"СВ": "{^^}",
-"Р*С": "{^\n}{^}{-|}",
-"Р-С": "{^~|\n^}",
-"#Р-С": "{#Shift_l(Return)}{^}",
-
-"ЕСК": "{#Escape}{^}",
-
-"ТВ-ТВ": "{^}.",
-"ПК-ТВ": "{^}?",
-"ТВ-ЛК": "{^}!",
-"ПК-ЛК": "{^},",
-
-"СПКР": "{}",
-"СПКР-И": "{}{:case:cap_first_word}",
-"СПКР-ИТ": "{:case:upper_first_word}",
-"СПКР-ИТь": "{:retro_case:upper_first_word}",
-"СПКР-Иь": "{:retro_case:cap_first_word}",
-"СПКР-С": "{:case:lower_first_char}",
-"СПКР-Сь": "{:retro_case:lower_first_char}",
-
 "#ТВМ*ИС": "{#Shift_l(Home)}{^}",
 "#ТВМ*ИЛВ": "{#Shift_l(Page_Down)}{^}",
 "#ТВМ*С": "{#Shift_l(Left)}{^}",
@@ -29,7 +9,6 @@
 "#ТВМ*ЛК": "{#Control_L(Shift_l(Right))}{^}",
 "#ТВМ*ВК": "{#Shift_l(End)}{^}",
 "#ТВМ*К": "{#Shift_l(Right)}{^}",
-
 "#ТВМ-ИС": "{#Home}{^}",
 "#ТВМ-ИТВ": "{#Control_l(Home)}{^}",
 "#ТВМ-ИЛВ": "{#Page_Down}{^}",
@@ -59,7 +38,24 @@
 "#ТВМ-К": "{#Right}{^}",
 "#ТВМ-КМ": "{#Right}{^}{#Right}{^}{#Right}{^}",
 "#ТВМ-КМР": "{#Right}{^}{#Right}{^}{#Right}{^}{#Right}{^}",
-"#ТВМ-КР": "{#Right}{^}{#Right}{^}"
+"#ТВМ-КР": "{#Right}{^}{#Right}{^}",
+"#Р-С": "{#Shift_l(Return)}{^}",
+"СПКР": "{}",
+"СПКР-И": "{}{:case:cap_first_word}",
+"СПКР-ИТ": "{:case:upper_first_word}",
+"СПКР-ИТь": "{:retro_case:upper_first_word}",
+"СПКР-Иь": "{:retro_case:cap_first_word}",
+"СПКР-С": "{:case:lower_first_char}",
+"СПКР-Сь": "{:retro_case:lower_first_char}",
+"СВ": "{^^}",
+"СЛ*ОСВ": "{PLOVER:ADD_TRANSLATION}",
+"СОИС": "{PLOVER:SOLO_DICT:+return-from-raw.json}",
+"ТВ-ТВ": "{^}.",
+"ТВ-ЛК": "{^}!",
+"ПК-ТВ": "{^}?",
+"ПК-ЛК": "{^},",
+"ПЛ-ИСК": "{PLOVER:LOOKUP}",
+"Р*С": "{^\n}{^}{-|}",
+"Р-С": "{^~|\n^}",
+"ЕСК": "{#Escape}{^}"
 }
-
-
